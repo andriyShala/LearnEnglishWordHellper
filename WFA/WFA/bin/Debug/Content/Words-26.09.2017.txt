@@ -1,0 +1,103 @@
+1%award%[  ]%нагорода%110%https://myefe.ru/data/sw/words/us/a/award__us_1.mp3%0
+2%climb%[  ]%видиратися,підніматися%130%https://myefe.ru/data/sw/words/us/c/climb__us_1.mp3%0
+3%part%[  ]%розводити,розділяти%80%https://myefe.ru/data/sw/words/us/p/part__us_1.mp3%0
+4%encourages%[ ɪnˈkʌr.ɪdʒ  ]%заохочувати%110%https://myefe.ru/data/sw/cwords/gb/u/ukencas019.mp3%0
+5%young%[  ]%молодь%130%https://myefe.ru/data/sw/words/us/y/young__us_1.mp3%0
+6%exciting%[  ]%збудження%110%https://myefe.ru/data/sw/words/us/e/exciting__us_1.mp3%0
+7%cultural%[  ]%кулькурний%110%https://myefe.ru/data/sw/words/us/c/cultural__us_1.mp3%0
+8%adventure%[  ]%ризикувати,відважуватися%110%https://myefe.ru/data/sw/words/us/a/adventure__us_1.mp3%0
+9%themselves%[  ]%самі,себе%110%https://myefe.ru/data/sw/words/us/t/themselves__us_1.mp3%0
+10%activities%[  ]%дії%110%https://myefe.ru/data/sw/words/us/a/activities__us_1.mp3%0
+11%achieve%[  ]%успішно виконувати,відбувати,добиватися%130%https://myefe.ru/data/sw/words/us/a/achieve__us_1.mp3%0
+12%hiking%[  ]%пішохідна ескурсія,туризм%110%https://myefe.ru/data/sw/words/us/h/hiking__us_1.mp3%0
+13%painting%[  ]%живопис%110%https://myefe.ru/data/sw/words/us/p/painting__us_1.mp3%0
+14%challenge%[  ]%виклик%110%https://myefe.ru/data/sw/words/us/c/challenge__us_1.mp3%0
+15%impove%[  ]%вдосконалення%110%https://myefe.ru/data/sw/words/us/i/impove__us_1.mp3%0
+16%voluntary%[  ]%добровільно%110%https://myefe.ru/data/sw/words/us/v/voluntary__us_1.mp3%0
+17%environment%[ ɪnˈvaɪrənmənt  ]%оточення,навколишнє оточення%110%https://myefe.ru/data/sw/words/gb/e/environment__gb_1.mp3%0
+18%disabled%[  ]%інвалід%130%https://myefe.ru/data/sw/words/us/d/disabled__us_1.mp3%0
+19%elderly%[ ˈeldərli  ]%похилого віку%110%https://myefe.ru/data/sw/words/gb/e/elderly__gb_1.mp3%0
+20%raise%[  ]%видвигати%80%https://myefe.ru/data/sw/words/us/r/raise__us_1.mp3%0
+21%charity%[  ]%благодійність%100%https://myefe.ru/data/sw/words/gb/c/charity__gb_1.mp3%0
+22%decide%[  ]%робити вибір%110%https://myefe.ru/data/sw/words/us/d/decide__us_1.mp3%0
+23%between%[  ]%між%110%https://myefe.ru/data/sw/words/us/b/between__us_1.mp3%0
+24%calm%[  ]%спокійний%110%https://myefe.ru/data/sw/words/us/c/calm__us_1.mp3%0
+25%completely%[  ]%повністю%110%https://myefe.ru/data/sw/words/us/c/completely__us_1.mp3%0
+26%personality%[  ]%особливість%130%https://myefe.ru/data/sw/words/us/p/personality__us_1.mp3%0
+27%which%[  ]%які%110%https://myefe.ru/data/sw/words/us/w/which__us_1.mp3%0
+28%take part%[  ]%брати участь%110%https://myefe.ru/data/sw/words/us/t/take part__us_1.mp3%0
+29%fear%[  ]%страх%110%https://myefe.ru/data/sw/words/us/f/fear__us_1.mp3%0
+30%fearfull%[  ]%боязкий%110%https://myefe.ru/data/sw/words/us/f/fearfull__us_1.mp3%0
+31%fearless%[  ]%безстрашний%110%https://myefe.ru/data/sw/words/us/f/fearless__us_1.mp3%0
+32%agryy%[  ]%погоджуватися%100%https://myefe.ru/data/sw/words/us/a/agryy__us_1.mp3%0
+33%refuse%[  ]%відмовляти%110%https://myefe.ru/data/sw/words/us/r/refuse__us_1.mp3%0
+34%expect%[  ]%очікувати%110%https://myefe.ru/data/sw/words/us/e/expect__us_1.mp3%0
+35%pretend%[  ]%вдавати вигляд%110%https://myefe.ru/data/sw/words/us/p/pretend__us_1.mp3%0
+36%hope%[  ]%сподіватися%110%https://myefe.ru/data/sw/words/us/h/hope__us_1.mp3%0
+37%manage%[  ]%керувати%130%https://myefe.ru/data/sw/words/us/m/manage__us_1.mp3%0
+38%avoid%[  ]%уникати%110%https://myefe.ru/data/sw/words/us/a/avoid__us_1.mp3%0
+39%cant help%[  ]%немогти стриматись%110%https://myefe.ru/data/sw/words/us/c/cant help__us_1.mp3%0
+40%cant stand%[  ]%не терпіти%110%https://myefe.ru/data/sw/words/us/c/cant stand__us_1.mp3%0
+41%fancy%[  ]%подобатись%110%https://myefe.ru/data/sw/words/us/f/fancy__us_1.mp3%0
+42%feel like%[  ]%мати кастрій%110%https://myefe.ru/data/sw/words/us/f/feel like__us_1.mp3%0
+43%imagine%[  ]%уявляти%130%https://myefe.ru/data/sw/words/us/i/imagine__us_1.mp3%0
+44%practise%[  ]%практикувати%110%https://myefe.ru/data/sw/words/us/p/practise__us_1.mp3%0
+45%dont mind%[  ]%не проти%110%https://myefe.ru/data/sw/words/us/d/dont mind__us_1.mp3%0
+46%instead%[ інстед ]%замість того%110%https://myefe.ru/data/sw/words/us/i/instead__us_1.mp3%0
+47%gap%[  ]%діра пропуск%130%https://myefe.ru/data/sw/words/us/g/gap__us_1.mp3%0
+48%immediately%[ i'mi:dietli ]%негайно безпосередньо%110%https://myefe.ru/data/sw/words/us/i/immediately__us_1.mp3%0
+49%suprised%[  ]%здивований%130%https://myefe.ru/data/sw/words/us/s/suprised__us_1.mp3%0
+50%deverlop%[  ]%розвиватися%110%https://myefe.ru/data/sw/words/us/d/deverlop__us_1.mp3%0
+51%qualities%[  ]%якості%130%https://myefe.ru/data/sw/words/us/q/qualities__us_1.mp3%0
+52%certainly%[  ]%звичайно%100%https://myefe.ru/data/sw/words/us/c/certainly__us_1.mp3%0
+53%growing%[  ]%зростати%130%https://myefe.ru/data/sw/words/us/g/growing__us_1.mp3%0
+54%forward%[  ]%чекати з нетерпіням%110%https://myefe.ru/data/sw/words/us/f/forward__us_1.mp3%0
+55%lying%[  ]%лежати%110%https://myefe.ru/data/sw/words/us/l/lying__us_1.mp3%0
+56%mind%[  ]%розум%110%https://myefe.ru/data/sw/words/us/m/mind__us_1.mp3%0
+57%tidy%[  ]%прибирати%130%https://myefe.ru/data/sw/words/us/t/tidy__us_1.mp3%0
+58%anyway%[  ]%всеодно%130%https://myefe.ru/data/sw/words/us/a/anyway__us_1.mp3%0
+59%common%[  ]%поширено%110%https://myefe.ru/data/sw/words/us/c/common__us_1.mp3%0
+60%strait%[  ]%прямо%130%https://myefe.ru/data/sw/words/us/s/strait__us_1.mp3%0
+61%file%[  ]%штраф%110%https://myefe.ru/data/sw/words/us/f/file__us_1.mp3%0
+62%keen on%[  ]%побатись не дається%110%https://myefe.ru/data/sw/words/us/k/keen on__us_1.mp3%0
+63%i would rather%[  ]%яб краще%110%https://myefe.ru/data/sw/words/us/i/i would rather__us_1.mp3%0
+64%quite%[  ]%досить%110%https://myefe.ru/data/sw/words/us/q/quite__us_1.mp3%0
+65%discuss%[  ]%обговорювати%110%https://myefe.ru/data/sw/words/us/d/discuss__us_1.mp3%0
+66%violent%[  ]%жорстокий%110%https://myefe.ru/data/sw/words/us/v/violent__us_1.mp3%0
+67%selebrity%[  ]%відомий%110%https://myefe.ru/data/sw/words/us/s/selebrity__us_1.mp3%0
+68%a bit%[  ]%трохи%110%https://myefe.ru/data/sw/words/us/a/a bit__us_1.mp3%0
+69%into%[  ]%в%130%https://myefe.ru/data/sw/words/us/i/into__us_1.mp3%0
+70%to be fond of%[  ]%фанатіти%110%https://myefe.ru/data/sw/words/us/t/to be fond of__us_1.mp3%0
+71%heavy%[  ]%тяжкий%60%https://myefe.ru/data/sw/words/us/h/heavy__us_1.mp3%0
+72%soul%[  ]%душа%110%https://myefe.ru/data/sw/words/us/s/soul__us_1.mp3%0
+73%rebellious%[  ]%метежний%40%https://myefe.ru/data/sw/words/us/r/rebellious__us_1.mp3%0
+74%outgoing%[  ]%вихідний,вихід%130%https://myefe.ru/data/sw/words/us/o/outgoing__us_1.mp3%0
+75%recent%[  ]%останім часом%110%https://myefe.ru/data/sw/words/us/r/recent__us_1.mp3%0
+76%research%[  ]%дослідження%130%https://myefe.ru/data/sw/words/us/r/research__us_1.mp3%0
+77%clothes%[  ]%одяг%110%https://myefe.ru/data/sw/words/us/c/clothes__us_1.mp3%0
+78%interviewed%[  ]%особисто зустрітися%110%https://myefe.ru/data/sw/words/us/i/interviewed__us_1.mp3%0
+79%gentle%[  ]%лагідний%110%https://myefe.ru/data/sw/words/us/g/gentle__us_1.mp3%0
+80%perhaps%[  ]%може бути%130%https://myefe.ru/data/sw/words/us/p/perhaps__us_1.mp3%0
+81%similar%[  ]%аналогічний%110%https://myefe.ru/data/sw/words/us/s/similar__us_1.mp3%0
+82%however%[  ]%однак%60%https://myefe.ru/data/sw/words/us/h/however__us_1.mp3%0
+83%unexpected%[  ]%несподівано%110%https://myefe.ru/data/sw/words/us/u/unexpected__us_1.mp3%0
+84%definitiony%[  ]%визначення%60%https://myefe.ru/data/sw/words/us/d/definitiony__us_1.mp3%0
+85%passionate%[  ]%пристасний%130%https://myefe.ru/data/sw/words/us/p/passionate__us_1.mp3%0
+86%shoulders%[  ]%плечі%130%https://myefe.ru/data/sw/words/us/s/shoulders__us_1.mp3%0
+87%frozen%[  ]%замерзлий%130%https://myefe.ru/data/sw/words/us/f/frozen__us_1.mp3%0
+88%explosion%[  ]%вибух%110%https://myefe.ru/data/sw/words/us/e/explosion__us_1.mp3%0
+89%fuse%[  ]%плавитися,запобіжник%110%https://myefe.ru/data/sw/words/us/f/fuse__us_1.mp3%0
+90%despair%[  ]%відчай%110%https://myefe.ru/data/sw/words/us/d/despair__us_1.mp3%0
+91%without%[  ]%без%110%https://myefe.ru/data/sw/words/us/w/without__us_1.mp3%0
+92%naughtiness%[ ˈnɔːtinəs  ]%безглуздя%130%https://myefe.ru/data/mlswi/words-sound/n/n-gb-fcab05a9441b665938252dff6580fd15.mp3%0
+93%dream%[  ]%мрія%110%https://myefe.ru/data/sw/words/us/d/dream__us_1.mp3%0
+94%tune%[  ]%тон,гармоніювати%110%https://myefe.ru/data/sw/words/us/t/tune__us_1.mp3%0
+95%psychologist%[  ]%психолог%110%https://myefe.ru/data/sw/words/us/p/psychologist__us_1.mp3%0
+96%judging%[  ]%судящий%110%https://myefe.ru/data/sw/words/us/j/judging__us_1.mp3%0
+97%clues%[  ]%ключі%80%https://myefe.ru/data/sw/words/us/c/clues__us_1.mp3%0
+98%amazing%[  ]%дивний дивовижний%110%https://myefe.ru/data/sw/words/us/a/amazing__us_1.mp3%0
+99%keen%[  ]%тужити%110%https://myefe.ru/data/sw/words/us/k/keen__us_1.mp3%0
+100%rather%[  ]%швидше,краще%110%https://myefe.ru/data/sw/words/us/r/rather__us_1.mp3%0
+101%exchange%[  ]%обмін%110%https://myefe.ru/data/sw/words/us/e/exchange__us_1.mp3%0
+102%being%[  ]%буття,життя%110%https://myefe.ru/data/sw/words/us/b/being__us_1.mp3%0
+103%fairly%[  ]%справдливо%130%https://myefe.ru/data/sw/words/us/f/fairly__us_1.mp3%0

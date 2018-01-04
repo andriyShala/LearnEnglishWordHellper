@@ -1,0 +1,4 @@
+1%accommodation%%житло%50%F:\EnglishWords\sound\accommodation.mp3%0
+2%breathe%%вдихати, вдихувати, дихати%50%F:\EnglishWords\sound\breathe.mp3%0
+3%deal_with%%мати справу з%50%F:\EnglishWords\sound\deal_with.mp3%0
+4%desperate%%відчайдушний%50%F:\EnglishWords\sound\desperate.mp3%0

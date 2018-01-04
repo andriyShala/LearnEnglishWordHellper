@@ -1,0 +1,6 @@
+1%bend%bent%bent%гнути%85%F:\EnglishWords\sound\bend.mp3%F:\EnglishWords\sound\bent.mp3%F:\EnglishWords\sound\bent.mp3
+2%lay%laid%laid%стелити%110%F:\EnglishWords\sound\lay.mp3%F:\EnglishWords\sound\laid.mp3%F:\EnglishWords\sound\laid.mp3
+3%lead%led%led%вести когось%110%F:\EnglishWords\sound\lead.mp3%%
+4%leap%leapt%leapt%пригати%110%%F:\EnglishWords\sound\leapt.mp3%F:\EnglishWords\sound\leapt.mp3
+5%hold%held%held%тримати%110%F:\EnglishWords\sound\hold.mp3%F:\EnglishWords\sound\held.mp3%F:\EnglishWords\sound\held.mp3
+6%hang%hung%hung%вішати%20%F:\EnglishWords\sound\hang.mp3%F:\EnglishWords\sound\hung.mp3%F:\EnglishWords\sound\hung.mp3

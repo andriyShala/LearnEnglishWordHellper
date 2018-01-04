@@ -1,0 +1,96 @@
+1%fit%[  ]%придатний%105%https://myefe.ru/data/sw/words/us/f/fit__us_1.mp3%0
+2%talkative%[  ]%розговорчевий%105%https://myefe.ru/data/sw/words/us/t/talkative__us_1.mp3%0
+3%modest%[  ]%скромний%105%https://myefe.ru/data/sw/words/us/m/modest__us_1.mp3%0
+4%shy%[  ]%соромязвивий%105%https://myefe.ru/data/sw/words/us/s/shy__us_1.mp3%0
+5%brave%[  ]%відважний%105%https://myefe.ru/data/sw/words/us/b/brave__us_1.mp3%0
+6%weak%[  ]%слабкий%105%https://myefe.ru/data/sw/words/us/w/weak__us_1.mp3%0
+7%sad%[  ]%сумний%105%https://myefe.ru/data/sw/words/us/s/sad__us_1.mp3%0
+8%polite%[  ]%вічлевий%105%https://myefe.ru/data/sw/words/us/p/polite__us_1.mp3%0
+9%impatient%[  ]%нетерплячий%105%https://myefe.ru/data/sw/words/us/i/impatient__us_1.mp3%0
+10%impolite%[  ]%невічлевий%105%https://myefe.ru/data/sw/words/us/i/impolite__us_1.mp3%0
+11%determined%[  ]%визначений,рішучий%80%https://myefe.ru/data/sw/words/us/d/determined__us_1.mp3%0
+12%confident%[  ]%впевнений%105%https://myefe.ru/data/sw/words/us/c/confident__us_1.mp3%0
+13%almost%[  ]%майже%105%https://myefe.ru/data/sw/words/us/a/almost__us_1.mp3%0
+14%arrogant%[  ]%зарозумілий%105%https://myefe.ru/data/sw/words/us/a/arrogant__us_1.mp3%0
+15%absectives%[  ]%прикметник%105%https://myefe.ru/data/sw/words/us/a/absectives__us_1.mp3%0
+16%joke%[  ]%жарт%105%https://myefe.ru/data/sw/words/us/j/joke__us_1.mp3%0
+17%before%[  ]%перед%105%https://myefe.ru/data/sw/words/us/b/before__us_1.mp3%0
+18%after%[  ]%після%105%https://myefe.ru/data/sw/words/us/a/after__us_1.mp3%0
+19%meaning%[  ]%значеня%105%https://myefe.ru/data/sw/words/us/m/meaning__us_1.mp3%0
+20%responsible%[  ]%відповідальний%105%https://myefe.ru/data/sw/words/us/r/responsible__us_1.mp3%0
+21%ambitious%[  ]%амбіційний%80%https://myefe.ru/data/sw/words/us/a/ambitious__us_1.mp3%0
+22%success%[  ]%успіх%105%https://myefe.ru/data/sw/words/us/s/success__us_1.mp3%0
+23%successful%[  ]%успішний%105%https://myefe.ru/data/sw/words/us/s/successful__us_1.mp3%0
+24%sensitive%[  ]%чутєвий%105%https://myefe.ru/data/sw/words/us/s/sensitive__us_1.mp3%0
+25%loyal%[  ]%вірний%105%https://myefe.ru/data/sw/words/us/l/loyal__us_1.mp3%0
+26%an opinion%[  əˈpɪnjən  ]%думка%105%https://myefe.ru/data/sw/words/us/a/an opinion__us_1.mp3%0
+27%lucky%[  ]%визучий%105%https://myefe.ru/data/sw/words/us/l/lucky__us_1.mp3%0
+28%mature%[  ]%зрілий%105%https://myefe.ru/data/sw/words/us/m/mature__us_1.mp3%0
+29%be have%[  ]%поводитись%105%https://myefe.ru/data/sw/words/us/b/be have__us_1.mp3%0
+30%lies%[  ]%брехня%105%https://myefe.ru/data/sw/words/us/l/lies__us_1.mp3%0
+31%interrupts%[  ]%переривати%80%https://myefe.ru/data/sw/words/us/i/interrupts__us_1.mp3%0
+32%threw%[  ]%кинув%105%https://myefe.ru/data/sw/words/us/t/threw__us_1.mp3%0
+33%urgently%[  ]%срочно%80%https://myefe.ru/data/sw/words/us/u/urgently__us_1.mp3%0
+34%attractive%[  ]%приваблевий%105%https://myefe.ru/data/sw/words/us/a/attractive__us_1.mp3%0
+35%believable%[  ]%правдоподібний%80%https://myefe.ru/data/sw/words/us/b/believable__us_1.mp3%0
+36%fair%[  ]%чесно%105%https://myefe.ru/data/sw/words/us/f/fair__us_1.mp3%0
+37%grateful%[  ]%вдячний%105%https://myefe.ru/data/sw/words/us/g/grateful__us_1.mp3%0
+38%safe%[  ]%безпечний%105%https://myefe.ru/data/sw/words/us/s/safe__us_1.mp3%0
+39%nice%[  ]%вихований%105%https://myefe.ru/data/sw/words/us/n/nice__us_1.mp3%0
+40%sure%[  ]%впевнений%105%https://myefe.ru/data/sw/words/us/s/sure__us_1.mp3%0
+41%bite%[  ]%кусати%105%https://myefe.ru/data/sw/words/us/b/bite__us_1.mp3%0
+42%rich%[  ]%багатий%105%https://myefe.ru/data/sw/words/us/r/rich__us_1.mp3%0
+43%tax%[  ]%податок%105%https://myefe.ru/data/sw/words/us/t/tax__us_1.mp3%0
+44%older%[  ]%старший%105%https://myefe.ru/data/sw/words/us/o/older__us_1.mp3%0
+45%get on%[  ]%сідати на транспорт%105%https://myefe.ru/data/sw/words/us/g/get on__us_1.mp3%0
+46%to crash%[  ]%ламатися%105%https://myefe.ru/data/sw/words/us/t/to crash__us_1.mp3%0
+47%poor%[  ]%бідний%105%https://myefe.ru/data/sw/words/us/p/poor__us_1.mp3%0
+48%some%[  ]%деякі%105%https://myefe.ru/data/sw/words/us/s/some__us_1.mp3%0
+49%correct%[  ]%правильні%105%https://myefe.ru/data/sw/words/us/c/correct__us_1.mp3%0
+50%wear%[  ]%носити%105%https://myefe.ru/data/sw/words/us/w/wear__us_1.mp3%0
+51%shoes%[ шус ]%взутя%105%https://myefe.ru/data/sw/words/us/s/shoes__us_1.mp3%0
+52%sometimes%[  ]%час від часу%105%https://myefe.ru/data/sw/words/us/s/sometimes__us_1.mp3%0
+53%always%[  ]%завжди%105%https://myefe.ru/data/sw/words/us/a/always__us_1.mp3%0
+54%often%[  ]%часто%105%https://myefe.ru/data/sw/words/us/o/often__us_1.mp3%0
+55%usually%[  ]%зазвичай%105%https://myefe.ru/data/sw/words/us/u/usually__us_1.mp3%0
+56%trainers%[  ]%кросівки%105%https://myefe.ru/data/sw/words/us/t/trainers__us_1.mp3%0
+57%recognize%[  ]%розпізнати%105%https://myefe.ru/data/sw/words/us/r/recognize__us_1.mp3%0
+58%way%[  ]%шлях%105%https://myefe.ru/data/sw/words/us/w/way__us_1.mp3%0
+59%shirt%[  ]%фудболки%105%https://myefe.ru/data/sw/words/us/s/shirt__us_1.mp3%0
+60%suit%[  ]%костюм%105%https://myefe.ru/data/sw/words/us/s/suit__us_1.mp3%0
+61%laugh%[lɑːf ]%сміятись%80%https://myefe.ru/data/sw/words/us/l/laugh__us_1.mp3%0
+62%exhausted%[ ɪɡˈzɔː.stɪd ]%виснажений%80%https://myefe.ru/data/sw/words/us/e/exhausted__us_1.mp3%0
+63%prefer to%[  ]%надавати перевагу%105%https://myefe.ru/data/sw/words/us/p/prefer to__us_1.mp3%0
+64%town%[  ]%містечко%105%https://myefe.ru/data/sw/words/us/t/town__us_1.mp3%0
+65%look for%[  ]%шукати%105%https://myefe.ru/data/sw/words/us/l/look for__us_1.mp3%0
+66%come from%[  ]%походити з%105%https://myefe.ru/data/sw/words/us/c/come from__us_1.mp3%0
+67%noise%[  ]%шум%105%https://myefe.ru/data/sw/words/us/n/noise__us_1.mp3%0
+68%taste%[  ]%смакувати%105%https://myefe.ru/data/sw/words/us/t/taste__us_1.mp3%0
+69%tastes funny%[  ]%смакує дивно%105%https://myefe.ru/data/sw/words/us/t/tastes funny__us_1.mp3%0
+70%enjoy%[  ]%насолоджуватися%105%https://myefe.ru/data/sw/words/us/e/enjoy__us_1.mp3%0
+71%over%[  ]%там над%105%https://myefe.ru/data/sw/words/us/o/over__us_1.mp3%0
+72%as well%[  ]%так само також%105%https://myefe.ru/data/sw/words/us/a/as well__us_1.mp3%0
+73%count%[  ]%рахувати%105%https://myefe.ru/data/sw/words/us/c/count__us_1.mp3%0
+74%amnount%[  ]%кількість%105%https://myefe.ru/data/sw/words/us/a/amnount__us_1.mp3%0
+75%matter%[  ]%мати значення%130%https://myefe.ru/data/sw/words/us/m/matter__us_1.mp3%0
+75%bride%[  ]%нареченна%105%https://myefe.ru/data/sw/words/us/b/bride__us_1.mp3%0
+76%groonsman%[  ]%дружба%105%https://myefe.ru/data/sw/words/us/g/groonsman__us_1.mp3%0
+77%hold%[  ]%тримайся%105%https://myefe.ru/data/sw/words/us/h/hold__us_1.mp3%0
+78%vest%[  ]%жилет%105%https://myefe.ru/data/sw/words/us/v/vest__us_1.mp3%0
+79%jacket%[  ]%куртка%105%https://myefe.ru/data/sw/words/us/j/jacket__us_1.mp3%0
+80%hurt%[  ]%завдавати болю%60%https://myefe.ru/data/sw/words/us/h/hurt__us_1.mp3%0
+82%better%[  ]%краще%105%https://myefe.ru/data/sw/words/us/b/better__us_1.mp3%0
+83%head%[  ]%вперед спереду%105%https://myefe.ru/data/sw/words/us/h/head__us_1.mp3%0
+84%spare%[  ]%запасний%105%https://myefe.ru/data/sw/words/us/s/spare__us_1.mp3%0
+85%angry%[  ]%злий%105%https://myefe.ru/data/sw/words/us/a/angry__us_1.mp3%0
+86%boved%[ борд ]%скучаючий%105%https://myefe.ru/data/sw/words/us/b/boved__us_1.mp3%0
+87%confused%[  ]%збентежений%105%https://myefe.ru/data/sw/words/us/c/confused__us_1.mp3%0
+88%embarrassed%[  ]%зніяковілий%105%https://myefe.ru/data/sw/words/us/e/embarrassed__us_1.mp3%0
+89%pleased%[  ]%задоволений%80%https://myefe.ru/data/sw/words/us/p/pleased__us_1.mp3%0
+90%shine%[  ]%світити%105%https://myefe.ru/data/sw/words/us/s/shine__us_1.mp3%0
+91%usefull%[  ]%корисне%105%https://myefe.ru/data/sw/words/us/u/usefull__us_1.mp3%0
+92%boring%[  ]%скучний%105%https://myefe.ru/data/sw/words/us/b/boring__us_1.mp3%0
+93%afraid%[  ]%боятися%105%https://myefe.ru/data/sw/words/us/a/afraid__us_1.mp3%0
+94%suppose%[  ]%я гадаю%105%https://myefe.ru/data/sw/words/us/s/suppose__us_1.mp3%0
+95%tend%[  ]%склонений%105%https://myefe.ru/data/sw/words/us/t/tend__us_1.mp3%0
+96%prepared%[  ]%готуватися%105%https://myefe.ru/data/sw/words/us/p/prepared__us_1.mp3%0

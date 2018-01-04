@@ -1,0 +1,71 @@
+1%scrapbook%%записник%50%F:\EnglishWords\sound\scrapbook.mp3%0
+2%pillar%%стовп%50%F:\EnglishWords\sound\pillar.mp3%0
+3%suitcase%%валіза%50%F:\EnglishWords\sound\suitcase.mp3%0
+4%glance%%погляд%50%F:\EnglishWords\sound\glance.mp3%0
+5%glimpse%%перегляд%50%F:\EnglishWords\sound\glimpse.mp3%0
+6%gaze%%вдивлятися%50%F:\EnglishWords\sound\gaze.mp3%0
+7%sight%%видовище%50%F:\EnglishWords\sound\sight.mp3%0
+8%duty%%обовязок%50%F:\EnglishWords\sound\duty.mp3%0
+9%confusion%%плутанина%50%F:\EnglishWords\sound\confusion.mp3%0
+10%vestry%%весілля%50%F:\EnglishWords\sound\vestry.mp3%0
+11%hurry%%поспішати%50%F:\EnglishWords\sound\hurry.mp3%0
+12%aside%%в сторону%50%F:\EnglishWords\sound\aside.mp3%0
+13%whisper%%шепіт%50%F:\EnglishWords\sound\whisper.mp3%0
+14%grim%%похмурий%50%F:\EnglishWords\sound\grim.mp3%0
+15%heavily%%тяжко%50%F:\EnglishWords\sound\heavily.mp3%0
+16%rose%%троянда%50%F:\EnglishWords\sound\rose.mp3%0
+17%struggle%%пробиратися%50%F:\EnglishWords\sound\struggle.mp3%0
+18%engag%%займатися%50%F:\EnglishWords\sound\engag.mp3%0
+19%appear%%зявлятися%50%F:\EnglishWords\sound\appear.mp3%0
+20%entrance%%ВИХІД%50%F:\EnglishWords\sound\entrance.mp3%0
+21%gasp%%задихатися%50%F:\EnglishWords\sound\gasp.mp3%0
+22%snow-white%%білосніжний%50%F:\EnglishWords\sound\snow-white.mp3%0
+23%resplendent%%блискучий%50%F:\EnglishWords\sound\resplendent.mp3%0
+24%rustle%%шелест%50%F:\EnglishWords\sound\rustle.mp3%0
+25%please%%подобатись%50%F:\EnglishWords\sound\please.mp3%0
+26%sag%%прогинатися%50%F:\EnglishWords\sound\sag.mp3%0
+27%piece%%шматок%50%F:\EnglishWords\sound\piece.mp3%0
+28%latest%%останній%50%F:\EnglishWords\sound\latest.mp3%0
+29%affect%%впливати%50%F:\EnglishWords\sound\affect.mp3%0
+30%presence%%наявність%50%F:\EnglishWords\sound\presence.mp3%0
+31%disappear%%зникати%50%F:\EnglishWords\sound\disappear.mp3%0
+32%uneasily%%зніяковіло%50%F:\EnglishWords\sound\uneasily.mp3%0
+33%twitch%%смикати%50%F:\EnglishWords\sound\twitch.mp3%0
+34%firmly%%твердо%50%F:\EnglishWords\sound\firmly.mp3%0
+35%particular%%подробиця%50%F:\EnglishWords\sound\particular.mp3%0
+36%occupy%%займати позичати%50%F:\EnglishWords\sound\occupy.mp3%0
+37%nearby%%поруч%50%F:\EnglishWords\sound\nearby.mp3%0
+38%tips%%чайовві%50%F:\EnglishWords\sound\tips.mp3%0
+39%aisle%%прохід%50%F:\EnglishWords\sound\aisle.mp3%0
+40%ambulance%%скора поміч%50%F:\EnglishWords\sound\ambulance.mp3%0
+41%arrival%%прибуття%50%F:\EnglishWords\sound\arrival.mp3%0
+42%bill%%рахунок%50%F:\EnglishWords\sound\bill.mp3%0
+43%rental%%прокат%50%F:\EnglishWords\sound\rental.mp3%0
+44%customs%%таможння%50%F:\EnglishWords\sound\customs.mp3%0
+45%declare%%декларувати%50%F:\EnglishWords\sound\declare.mp3%0
+46%departure%%відправлення%50%F:\EnglishWords\sound\departure.mp3%0
+47%destination%%пункт назначення%50%F:\EnglishWords\sound\destination.mp3%0
+48%embassy%%посольство%50%F:\EnglishWords\sound\embassy.mp3%0
+49%ferry%%паром%50%F:\EnglishWords\sound\ferry.mp3%0
+50%foreigner%%іностранець%50%F:\EnglishWords\sound\foreigner.mp3%0
+51%gate%%вихід на посадку%50%F:\EnglishWords\sound\gate.mp3%0
+52%haggle%%торгуватися%50%F:\EnglishWords\sound\haggle.mp3%0
+53%hail a cab%%ловити таксі%50%F:\EnglishWords\sound\hail a cab.mp3%0
+54%insurance%%страховка%50%F:\EnglishWords\sound\insurance.mp3%0
+55%itinerary%%маршрут%50%F:\EnglishWords\sound\itinerary.mp3%0
+56%landing%%посадка%50%F:\EnglishWords\sound\landing.mp3%0
+57%postcard%%відкридка%50%F:\EnglishWords\sound\postcard.mp3%0
+58%rent%%арендувати%50%F:\EnglishWords\sound\rent.mp3%0
+59%resort%%курорт%50%F:\EnglishWords\sound\resort.mp3%0
+60%restroom%%туалет%50%F:\EnglishWords\sound\restroom.mp3%0
+61%compatible%%совмістимий%50%F:\EnglishWords\sound\compatible.mp3%0
+62%annoying%%дратує%50%F:\EnglishWords\sound\annoying.mp3%0
+63%confusing%%заплутаний%50%F:\EnglishWords\sound\confusing.mp3%0
+64%embarrassing%%непреємно%50%F:\EnglishWords\sound\embarrassing.mp3%0
+65%exhausting%%виснажливий%50%F:\EnglishWords\sound\exhausting.mp3%0
+66%frightening%%страшно%50%F:\EnglishWords\sound\frightening.mp3%0
+67%satisfying%%задовольняє%50%F:\EnglishWords\sound\satisfying.mp3%0
+68%recently%%нещодавно%50%F:\EnglishWords\sound\recently.mp3%0
+69%respond%%відповісти%50%F:\EnglishWords\sound\respond.mp3%0
+70%inquire%%запитати%50%F:\EnglishWords\sound\inquire.mp3%0
+71%supportive%%сприятливий%50%F:\EnglishWords\sound\supportive.mp3%0

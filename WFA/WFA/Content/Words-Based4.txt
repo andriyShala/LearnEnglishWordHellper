@@ -1,0 +1,37 @@
+1%wrong%[]%неправильно%60%F:\EnglishWords\sound\wrong.mp3%0
+2%thin%[]%худий%60%F:\EnglishWords\sound\thin.mp3%0
+3%strange%[]%страний%60%F:\EnglishWords\sound\strange.mp3%0
+4%solid%[]%твердий%60%F:\EnglishWords\sound\solid.mp3%4
+5%soft%[]%мягкий%60%F:\EnglishWords\sound\soft.mp3%2
+6%narrow%[]%вузький%60%F:\EnglishWords\sound\narrow.mp3%2
+7%loose%[]%свобідний%60%F:\EnglishWords\sound\loose.mp3%0
+8%foolish%[]%нерозумний%60%F:\EnglishWords\sound\foolish.mp3%2
+9%dirty%[]%брудний%60%F:\EnglishWords\sound\dirty.mp3%6
+10%delicate%[]%тонкий%60%F:\EnglishWords\sound\delicate.mp3%0
+11%cruel%[]%жорстокий%60%F:\EnglishWords\sound\cruel.mp3%0
+12%certain%[]%впевнений%60%F:\EnglishWords\sound\certain.mp3%4
+13%bitter%[]%гіркий%60%F:\EnglishWords\sound\bitter.mp3%0
+14%bent%[]%зігнутий%60%F:\EnglishWords\sound\bent.mp3%0
+15%wise%[]%мудрый%60%F:\EnglishWords\sound\wise.mp3%0
+16%wide%[]%широкий	%60%F:\EnglishWords\sound\wide.mp3%2
+17%wet%[]%вимочити,замочити%60%F:\EnglishWords\sound\wet.mp3%2
+18%violent%[]%напрасний,насильний%60%F:\EnglishWords\sound\violent.mp3%0
+19%tired%[]%вичерпаний,втомлений%60%F:\EnglishWords\sound\tired.mp3%0
+20%tight%[]%грунтовно,тісно,туго%60%F:\EnglishWords\sound\tight.mp3%0
+21%thick%[]%густий%60%F:\EnglishWords\sound\thick.mp3%4
+22%sudden%[]%раптовий%60%F:\EnglishWords\sound\sudden.mp3%2
+23%straight%[]%прямий%60%F:\EnglishWords\sound\straight.mp3%2
+24%stiff%[]%босяк,незграбналюдина,%60%F:\EnglishWords\sound\stiff.mp3%0
+25%sticky%[]%клейкий,липкий%60%F:\EnglishWords\sound\sticky.mp3%6
+26%smooth%[]%заспокоювати%60%F:\EnglishWords\sound\smooth.mp3%0
+27%sharp%[]%шахраювати%60%F:\EnglishWords\sound\sharp.mp3%0
+28%serious%[]%серьёзный	%60%F:\EnglishWords\sound\serious.mp3%4
+29%separate%[]%отдельный,отделять%60%F:\EnglishWords\sound\separate.mp3%0
+30%responsible%[]%відповідальний%60%F:\EnglishWords\sound\responsible.mp3%0
+31%probable%[]%імовірний%60%F:\EnglishWords\sound\probable.mp3%6
+32%possible%[]%можливий%60%F:\EnglishWords\sound\possible.mp3%4
+33%necessary%[]%необхідний%60%F:\EnglishWords\sound\necessary.mp3%6
+34%military%[]%військовий%60%F:\EnglishWords\sound\military.mp3%2
+35%hanging%[]%вішання%60%F:\EnglishWords\sound\hanging.mp3%0
+36%fertile%[]%родючий%60%F:\EnglishWords\sound\fertile.mp3%0
+37%fat%[]%жир,повнота%60%F:\EnglishWords\sound\fat.mp3%0

@@ -1,0 +1,4 @@
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\WFA\TranslateLibary\bin\Debug\TranslateLibary.dll
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\WFA\TranslateLibary\bin\Debug\TranslateLibary.pdb
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\WFA\TranslateLibary\obj\Debug\TranslateLibary.dll
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\WFA\TranslateLibary\obj\Debug\TranslateLibary.pdb

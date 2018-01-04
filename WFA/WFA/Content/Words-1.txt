@@ -1,0 +1,215 @@
+1%pretty%'priti%хороший%110%F:\EnglishWords\sound\pretty.mp3%0
+2%SO%Nothave%так%120%https://myefe.ru/data/sw/words/gb/s/so__gb_1.mp3%0
+3%far%Nothave%далеко%70%F:\EnglishWords\sound\far.mp3%0
+4%happened%ˈhæp.ən%случилось%60%https://myefe.ru/data/sw/cwords/gb/u/ukhapha005.mp3%0
+5%slip%слип%буксувати%70%F:\EnglishWords\Words-1.txt%0
+6%another%[ əˈnʌðər ]%інший%60%F:\EnglishWords\sound\another.mp3%0
+7%enough%інаф\[ ɪˈnʌf ]%достатньо%40%F:\EnglishWords\sound\enough.mp3%0
+8%arriving%[ əˈraɪv ]%прибуття%70%https://myefe.ru/data/sw/cwords/gb/u/ukarriv002.mp3%0
+9%emergency%[ iˈmɜːrdʒənsi ]%надзвичайнаситуація%70%F:\EnglishWords\sound\emergency.mp3%0
+10%wanna%[ ˈwɑː.nə ]%хочу%60%F:\EnglishWords\sound\wanna.mp3%0
+11%hear%[ hɪr ]%слухати%60%F:\EnglishWords\sound\hear.mp3%0
+12%bleeding%[ ˈbliː.dɪŋ ]%кровотеча%70%https://myefe.ru/data/sw/cwords/gb/u/ukblank029.mp3%0
+13%gonna%Nothave%збиратися%60%https://myefe.ru/data/sw/cwords/gb/u/ukgonad007.mp3%0
+14%alone%əˈloʊn%сам%50%F:\EnglishWords\sound\alone.mp3%0
+15%around%əˈraʊnd%навколо%70%F:\EnglishWords\sound\around.mp3%0
+16%better%ˈbetər%ліпше%60%F:\EnglishWords\sound\better.mp3%0
+17%gotta%ˈɡɑː.t̬ə%треба%70%https://myefe.ru/data/sw/cwords/gb/u/ukgoose026.mp3%0
+18%each%Nothave%всі%60%F:\EnglishWords\sound\each.mp3%0
+19%decision%dɪˈsɪʒn%рішення%60%F:\EnglishWords\sound\decision.mp3%0
+20%trying%traɪ.ɪŋ%намагатися%70%https://myefe.ru/data/sw/cwords/gb/u/uktrust016.mp3%0
+21%spare%sper%берегти%70%F:\EnglishWords\sound\spare.mp3%0
+22%promise%ˈprɑːmɪs%обіцяю%60%F:\EnglishWords\sound\promise.mp3%0
+23%trust%trʌst%довіряти%60%F:\EnglishWords\sound\trust.mp3%0
+24%soon%suːn%скоро%70%F:\EnglishWords\sound\soon.mp3%0
+25%should%[  ]%слід%70%https://myefe.ru/data/sw/words/gb/s/should__gb_2.mp3%0
+26%offer%[  ]%пропозиція%70%F:\EnglishWords\sound\offer.mp3%0
+27%follow%[  ]%слідувати%70%F:\EnglishWords\sound\follow.mp3%0
+28%advice%[  ]%порада%60%F:\EnglishWords\sound\advice.mp3%0
+29%different%[  ]%різні%60%F:\EnglishWords\sound\different.mp3%0
+30%early%[  ]%рано%70%F:\EnglishWords\sound\early.mp3%0
+31%late%[  ]%пізно%70%F:\EnglishWords\sound\late.mp3%0
+32%seem%[  ]%казатися%70%F:\EnglishWords\sound\seem.mp3%0
+33%often%[ offen ]%часто%70%F:\EnglishWords\sound\often.mp3%0
+34%watch%[  ]%дивитися%70%F:\EnglishWords\sound\watch.mp3%0
+35%teacher%[  ]%вчитель%70%F:\EnglishWords\sound\teacher.mp3%0
+36%every%[  ]%кожен%70%F:\EnglishWords\sound\every.mp3%0
+37%dishes%[ dɪʃ ]%посуд%60%https://myefe.ru/data/sw/cwords/gb/u/ukdisgu007.mp3%0
+38%relax%[  ]%відихати%70%F:\EnglishWords\sound\relax.mp3%0
+39%evening%[  ]%вечір%70%F:\EnglishWords\sound\evening.mp3%0
+40%usually%[  ]%звичайно%70%F:\EnglishWords\sound\usually.mp3%0
+41%flat%[  ]%квартира%70%F:\EnglishWords\sound\flat.mp3%0
+42%many%[  ]%багато%70%F:\EnglishWords\sound\many.mp3%0
+43%strange%[  ]%страно%70%F:\EnglishWords\sound\strange.mp3%0
+44%urgently%[ ерджент ]%срочно%60%https://myefe.ru/data/sw/cwords/gb/u/ukupstr028.mp3%0
+45%prefer%[  ]%предпочитати%60%F:\EnglishWords\sound\prefer.mp3%0
+46%here%[  ]%тут%70%F:\EnglishWords\sound\here.mp3%0
+47%those%[  ]%ті%70%https://myefe.ru/data/sw/cwords/gb/u/ukthirt022.mp3%0
+48%rent%[  ]%зняти%70%https://myefe.ru/data/sw/words/gb/r/rent__gb_2.mp3%0
+49%beautiful%[  ]%красиво%70%F:\EnglishWords\sound\beautiful.mp3%0
+50%become%[  ]%ставати%70%F:\EnglishWords\sound\become.mp3%0
+51%agree%[  ]%згоден%60%F:\EnglishWords\sound\agree.mp3%0
+52%wonderful%[  ]%прекрасно%70%F:\EnglishWords\sound\wonderful.mp3%0
+53%forget%[  ]%забувати%70%F:\EnglishWords\sound\forget.mp3%0
+54%continue%[  ]%продовжувати%70%https://myefe.ru/data/sw/words/gb/x/xcontinue__gb_1.mp3%0
+55%include%[  ]%включає%70%F:\EnglishWords\sound\include.mp3%0
+56%our%[  ]%наш%70%F:\EnglishWords\sound\our.mp3%0
+57%rest%[  ]%відпочинок%70%F:\EnglishWords\sound\rest.mp3%0
+58%believe%[  ]%вірити%60%F:\EnglishWords\sound\believe.mp3%0
+59%near%[  ]%близько%70%F:\EnglishWords\sound\near.mp3%0
+60%wife%[  ]%жінка%70%F:\EnglishWords\sound\wife.mp3%0
+61%expensive%[  ]%дорогі%70%F:\EnglishWords\sound\expensive.mp3%0
+62%thing%[  ]%річ%70%F:\EnglishWords\sound\thing.mp3%0
+63%cheap%[  ]%дешеві%70%F:\EnglishWords\sound\cheap.mp3%0
+64%short%[  ]%кородкий%70%F:\EnglishWords\sound\short.mp3%0
+65%break%[  ]%ламати%70%F:\EnglishWords\sound\break.mp3%0
+66%bring%[  ]%приносити%60%F:\EnglishWords\sound\bring.mp3%0
+67%build%[  ]%будувати%70%F:\EnglishWords\sound\build.mp3%0
+68%burn%[  ]%горіти%70%F:\EnglishWords\sound\burn.mp3%0
+69%cast%[  ]%кидати%70%F:\EnglishWords\sound\cast.mp3%0
+70%catch%[  ]%ловити%70%F:\EnglishWords\sound\catch.mp3%0
+71%choose%[  ]%вибирати%70%F:\EnglishWords\sound\choose.mp3%0
+72%come%[  ]%приходити%70%F:\EnglishWords\sound\come.mp3%0
+73%cost%[  ]%коштувати%70%F:\EnglishWords\sound\cost.mp3%0
+74%care%[  ]%заботитись%70%F:\EnglishWords\sound\care.mp3%0
+75%cut%[  ]%різати%70%F:\EnglishWords\sound\cut.mp3%0
+76%fall%[  ]%падати%70%F:\EnglishWords\sound\fall.mp3%0
+77%feed%[  ]%годувати%70%F:\EnglishWords\sound\feed.mp3%0
+78%feel%[  ]%відчувати%70%F:\EnglishWords\sound\feel.mp3%0
+79%fight%[  ]%боротися%70%F:\EnglishWords\sound\fight.mp3%0
+80%find%[  ]%знаходити%70%F:\EnglishWords\sound\find.mp3%0
+81%fly%[  ]%літати%70%F:\EnglishWords\sound\fly.mp3%0
+82%freeze%[  ]%заморожувати%70%F:\EnglishWords\sound\freeze.mp3%0
+83%get%[  ]%отримувати%70%F:\EnglishWords\sound\get.mp3%0
+84%give%[  ]%давати%70%F:\EnglishWords\sound\give.mp3%0
+85%go%[  ]%йти%70%F:\EnglishWords\sound\go.mp3%0
+86%hide%[  ]%ховати%70%F:\EnglishWords\sound\hide.mp3%0
+87%hold%[  ]%тримати%70%F:\EnglishWords\sound\hold.mp3%0
+88%keep%[  ]%зберігати%60%F:\EnglishWords\sound\keep.mp3%0
+89%know%[  ]%знати%70%F:\EnglishWords\sound\know.mp3%0
+90%leave%[  ]%залишати%70%F:\EnglishWords\sound\leave.mp3%0
+91%let%[  ]%дозволяти%60%F:\EnglishWords\sound\let.mp3%0
+92%lose%[  ]%втрачати%50%F:\EnglishWords\sound\lose.mp3%0
+93%make%[  ]%робити%70%F:\EnglishWords\sound\make.mp3%0
+94%mean%[  ]%значити%60%F:\EnglishWords\sound\mean.mp3%0
+95%meet%[  ]%зустрічати%70%F:\EnglishWords\sound\meet.mp3%0
+96%put%[  ]%класти%70%F:\EnglishWords\sound\put.mp3%0
+97%read%[  ]%читати%70%F:\EnglishWords\sound\read.mp3%0
+98%rise%[  ]%підніматися%70%F:\EnglishWords\sound\rise.mp3%0
+99%say%[  ]%сказати%70%F:\EnglishWords\sound\say.mp3%0
+100%see%[  ]%бачити%70%F:\EnglishWords\sound\see.mp3%0
+101%sell%[  ]%продавати%70%F:\EnglishWords\sound\sell.mp3%0
+102%send%[  ]%надсилати%70%F:\EnglishWords\sound\send.mp3%0
+103%set%[  ]%встановлювати%70%F:\EnglishWords\sound\set.mp3%0
+104%shake%[  ]%трясти%70%F:\EnglishWords\sound\shake.mp3%0
+105%sing%[  ]%співати%70%F:\EnglishWords\sound\sing.mp3%0
+106%her%[  ]%її%70%F:\EnglishWords\sound\her.mp3%0
+107%him%[  ]%йому%60%F:\EnglishWords\sound\him.mp3%0
+108%can%[  ]%могти%70%F:\EnglishWords\sound\can.mp3%0
+109%answer%[  ]%відповідати%60%F:\EnglishWords\sound\answer.mp3%0
+110%any%[  ]%любий%60%F:\EnglishWords\sound\any.mp3%0
+111%garden%[  ]%сад%70%F:\EnglishWords\sound\garden.mp3%0
+112%mast%[  ]%повинен%60%https://myefe.ru/data/sw/cwords/gb/u/ukmassi003.mp3%0
+113%today%[  ]%сьогодні%70%F:\EnglishWords\sound\today.mp3%0
+114%together%[  ]%разом%60%F:\EnglishWords\sound\together.mp3%0
+115%separate%[  ]%окремо%70%F:\EnglishWords\sound\separate.mp3%0
+116%tomorrow%[  ]%завтра%60%https://myefe.ru/data/sw/words/gb/t/tomorrow__gb_1.mp3%0
+117%may%[  ]%можно%60%https://myefe.ru/data/sw/words/gb/m/may__gb_2.mp3%0
+118%long%[  ]%довгим%60%F:\EnglishWords\sound\long.mp3%0
+119%seldom%[  ]%рідко%60%https://myefe.ru/data/sw/cwords/gb/u/ukseek_025.mp3%0
+120%mistakes%[  ]%помилки%60%https://myefe.ru/data/sw/cwords/gb/u/ukmispr028.mp3%0
+121%remember%[  ]%памятати%60%F:\EnglishWords\sound\remember.mp3%0
+122%also%[  ]%также%60%F:\EnglishWords\sound\also.mp3%0
+123%always%[  ]%завжди%60%F:\EnglishWords\sound\always.mp3%0
+124%own%[  ]%власний%60%F:\EnglishWords\sound\own.mp3%0
+125%everything%[  ]%все%60%F:\EnglishWords\sound\everything.mp3%0
+126%us%[  ]%нам%70%https://myefe.ru/data/sw/words/gb/u/us__gb_2.mp3%0
+127%spend%[  ]%витрачати%60%F:\EnglishWords\sound\spend.mp3%0
+128%dressed%[  ]%одягнений%60%F:\EnglishWords\sound\dressed.mp3%0
+129%carpet%[  ]%килим%60%F:\EnglishWords\sound\carpet.mp3%0
+130%angle%[  ]%кут%60%F:\EnglishWords\sound\angle.mp3%0
+131%life%[  ]%житя%70%F:\EnglishWords\sound\life.mp3%0
+132%ant%[  ]%муравей%0%https://myefe.ru/data/sw/cwords/gb/u/ukanore009.mp3%0
+133%arm%[  ]%рука%0%F:\EnglishWords\sound\arm.mp3%0
+134%army%[  ]%армія%0%F:\EnglishWords\sound\army.mp3%0
+135%bag%[  ]%сумка%0%F:\EnglishWords\sound\bag.mp3%0
+136%bank%[ ]%банк%50%F:\EnglishWords\sound\bank.mp3%0
+137%basket%[ ]%корзина%50%https://myefe.ru/data/sw/cwords/gb/u/ukbashf012.mp3%0
+138%bath%[ ]%ванна%50%F:\EnglishWords\sound\bath.mp3%0
+139%bed%[ ]%кровать%50%https://myefe.ru/data/sw/words/gb/b/bed__gb_2.mp3%0
+140%bee%[ ]%пчела%50%https://myefe.ru/data/sw/cwords/gb/u/ukazt__003.mp3%0
+141%bell%[ ]%колокольчик%50%F:\EnglishWords\sound\bell.mp3%0
+142%berry%[ ]%ягода%50%https://myefe.ru/data/sw/cwords/gb/u/ukbenev024.mp3%0
+143%board%[ ]%доска%50%F:\EnglishWords\sound\board.mp3%0
+144%boat%[ ]%лодка%50%F:\EnglishWords\sound\boat.mp3%0
+145%bone%[ ]%кость%50%F:\EnglishWords\sound\bone.mp3%0
+146%brush%[ ]%щётка%50%F:\EnglishWords\sound\brush.mp3%0
+147%cake%[ keɪk ]%пирог%50%F:\EnglishWords\sound\cake.mp3%0
+148%cloud%[ klaʊd ]%облако%50%F:\EnglishWords\sound\cloud.mp3%0
+149%hat%[ ]%шляпа%50%F:\EnglishWords\sound\hat.mp3%0
+150%island%[ ]%остров%50%F:\EnglishWords\sound\island.mp3%0
+151%kettle%[ ˈket̬-  ]%чайник%50%https://myefe.ru/data/sw/cwords/gb/u/ukkero_005.mp3%0
+152%knot%[ nɑːt ]%узел%50%F:\EnglishWords\sound\knot.mp3%0
+153%leaf%[ liːf ]%лист%50%F:\EnglishWords\sound\leaf.mp3%0
+154%receipt%[  rɪˈsiːt ]%квитанция%50%F:\EnglishWords\sound\receipt.mp3%0
+155%rod%[ ]%прут%50%https://myefe.ru/data/sw/cwords/gb/u/ukrobot016.mp3%0
+156%root%[ ]%корень%50%F:\EnglishWords\sound\root.mp3%0
+157%roof%[ ]%крыша%50%F:\EnglishWords\sound\roof.mp3%0
+158%scissors%[ ˈsɪzərz ]%ножницы%50%F:\EnglishWords\sound\scissors.mp3%0
+159%across%[ ]%через%50%F:\EnglishWords\sound\across.mp3%0
+160%after%[ ]%после%50%F:\EnglishWords\sound\after.mp3%0
+161%against%[ ]%против%50%F:\EnglishWords\sound\against.mp3%0
+162%among%[ əˈmʌŋ ]%среди%50%F:\EnglishWords\sound\among.mp3%0
+163%before%[ ]%перед%50%F:\EnglishWords\sound\before.mp3%0
+164%between%[ bɪˈtwiːn ]%между%50%F:\EnglishWords\sound\between.mp3%0
+165%from%[ ]%из%50%F:\EnglishWords\sound\from.mp3%0
+166%over%[ ]%по%50%F:\EnglishWords\sound\over.mp3%0
+167%through%[ θruː ]%через%50%F:\EnglishWords\sound\through.mp3%0
+168%under%[ ]%под%50%F:\EnglishWords\sound\under.mp3%0
+169%till%[ ]%пока,до%50%https://myefe.ru/data/sw/cwords/gb/u/uktight008.mp3%0
+170%than%[ ]%чем%50%F:\EnglishWords\sound\than.mp3%0
+171%other%[ ]%другой%50%F:\EnglishWords\sound\other.mp3%0
+172%some%[ ]%декілька%50%F:\EnglishWords\sound\some.mp3%0
+173%such%[ ]%такой%50%F:\EnglishWords\sound\such.mp3%0
+174%that%[ ]%что%50%F:\EnglishWords\sound\that.mp3%0
+175%because%[ ]%потому.что%50%https://myefe.ru/data/sw/words/gb/b/because__gb_1.mp3%0
+176%though%[ ]%хотя%50%F:\EnglishWords\sound\though.mp3%0
+177%how%[ ]%как%50%F:\EnglishWords\sound\how.mp3%0
+178%when%[ ]%когда%50%F:\EnglishWords\sound\when.mp3%0
+179%where%[ ]%где,куда%50%F:\EnglishWords\sound\where.mp3%0
+180%why%[ ]%почему%50%F:\EnglishWords\sound\why.mp3%0
+181%again%[ ]%снова%50%F:\EnglishWords\sound\again.mp3%0
+182%ever%[ ]%когда%50%F:\EnglishWords\sound\ever.mp3%0
+183%out%[ ]%вне%50%F:\EnglishWords\sound\out.mp3%0
+184%then%[ ]%тогда%50%F:\EnglishWords\sound\then.mp3%0
+185%there%[ ]%там%50%F:\EnglishWords\sound\there.mp3%0
+186%almost%[ ]%почти%50%F:\EnglishWords\sound\almost.mp3%0
+187%even%[ˈiːvn ]%еще%50%F:\EnglishWords\sound\even.mp3%0
+188%little%[ ]%маленький%50%F:\EnglishWords\sound\little.mp3%0
+189%much%[ mʌtʃ ]%много%50%F:\EnglishWords\sound\much.mp3%0
+190%only%[ ]%только%50%F:\EnglishWords\sound\only.mp3%0
+191%quite%[ kwaɪt ]%весьма%50%F:\EnglishWords\sound\quite.mp3%0
+192%yesterday%[ ]%вчера%50%F:\EnglishWords\sound\yesterday.mp3%0
+193%north%[ nɔːrθ ]%север%50%F:\EnglishWords\sound\north.mp3%0
+194%south%[ saʊθ ]%юг%50%F:\EnglishWords\sound\south.mp3%0
+195%east%[  iːst ]%восток%50%F:\EnglishWords\sound\east.mp3%0
+196%west%[ ]%запад%50%F:\EnglishWords\sound\west.mp3%0
+197%angry%[ ˈæŋɡri  ]%сердитый%50%F:\EnglishWords\sound\angry.mp3%0
+198%chief%[ tʃiːf ]%главный%50%F:\EnglishWords\sound\chief.mp3%0
+199%conscious%[ ˈkɑːnʃəs ]%сознательный%50%https://myefe.ru/data/sw/words/gb/x/xconscious__gb_1.mp3%0
+200%deep%[ ]%глубокий%50%F:\EnglishWords\sound\deep.mp3%0
+201%dependent%[ ]%зависимый%50%https://myefe.ru/data/sw/cwords/gb/u/ukdensi026.mp3%0
+202%equal%[ ]%равный%50%F:\EnglishWords\sound\equal.mp3%0
+203%frequent%[ ˈfriːkwənt ]%частый,часто.посещать%50%F:\EnglishWords\sound\frequent.mp3%0
+204%full%[ ]%полный%50%F:\EnglishWords\sound\full.mp3%0
+205%healthy%[ ˈhelθi ]%здоровый%50%F:\EnglishWords\sound\healthy.mp3%0
+206%important%[ ]%важный%50%F:\EnglishWords\sound\important.mp3%0
+207%kind%[ ]%добрый%50%F:\EnglishWords\sound\kind.mp3%0
+208%necessary%[ ˈnesəseri ]%необходимый%50%F:\EnglishWords\sound\necessary.mp3%0
+209%carefully%[  ]%обережно%50%F:\EnglishWords\sound\carefully.mp3%0
+210%careful%[  ]%обережний%50%F:\EnglishWords\sound\careful.mp3%0
+211%umbrella%[  ]%парасоля%50%F:\EnglishWords\sound\umbrella.mp3%0
+212%spring%[  ]%весна%50%F:\EnglishWords\sound\spring.mp3%0
+213%summer%[  ]%літо%50%F:\EnglishWords\sound\summer.mp3%0
+214%autumn%[  ]%осінь%50%F:\EnglishWords\sound\autumn.mp3%0
+215%winter%[  ]%зима%50%F:\EnglishWords\sound\winter.mp3%0

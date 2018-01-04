@@ -1,0 +1,48 @@
+1%achieve%%добиватися,успішно виконувати%50%F:\EnglishWords\sound\achieve.mp3%0
+2%adventure%%ризикувати%50%F:\EnglishWords\sound\adventure.mp3%0
+3%ambition%%амбіція%50%F:\EnglishWords\sound\ambition.mp3%0
+4%arrogant%%зарозумілий%50%F:\EnglishWords\sound\arrogant.mp3%0
+5%avoid%%уникати%50%F:\EnglishWords\sound\avoid.mp3%0
+6%blues%%блюз%50%F:\EnglishWords\sound\blues.mp3%0
+7%bronze%%бронза%50%F:\EnglishWords\sound\bronze.mp3%0
+8%cave%%печера%50%F:\EnglishWords\sound\cave.mp3%0
+9%challenge%%виклик%50%F:\EnglishWords\sound\challenge.mp3%0
+10%charity%%благодійність%50%F:\EnglishWords\sound\charity.mp3%0
+11%classical%%класично%50%F:\EnglishWords\sound\classical.mp3%0
+12%confident%%впевнений%50%F:\EnglishWords\sound\confident.mp3%0
+13%determined%%визначений рішучий%50%F:\EnglishWords\sound\determined.mp3%0
+14%disabled%%інвалід%50%F:\EnglishWords\sound\disabled.mp3%0
+15%dsihonest%%нечесний%50%F:\EnglishWords\sound\dsihonest.mp3%0
+16%elderly%%похилого віку%50%F:\EnglishWords\sound\elderly.mp3%0
+17%encourage%%заохочувати%50%F:\EnglishWords\sound\encourage.mp3%0
+18%environment%%навколишнє середовище%50%F:\EnglishWords\sound\environment.mp3%0
+19%fancy%%уява%50%F:\EnglishWords\sound\fancy.mp3%0
+20%fond%%люблячий,фон%50%F:\EnglishWords\sound\fond.mp3%0
+21%fuse%%плавитись,запобіжник%50%F:\EnglishWords\sound\fuse.mp3%0
+22%generous%%щедрий%50%F:\EnglishWords\sound\generous.mp3%0
+23%gentle%%лагідний%50%F:\EnglishWords\sound\gentle.mp3%0
+24%hiking%%піхоходна екскурсія%50%F:\EnglishWords\sound\hiking.mp3%0
+25%kind%%доброзичливий%50%F:\EnglishWords\sound\kind.mp3%0
+26%modest%%скромний%50%F:\EnglishWords\sound\modest.mp3%0
+27%nervous%%нервовий%50%F:\EnglishWords\sound\nervous.mp3%0
+28%opportunity%%можливість%50%F:\EnglishWords\sound\opportunity.mp3%0
+29%outgoing%%виходити,вихідний%50%F:\EnglishWords\sound\outgoing.mp3%0
+30%passionate%%пристасний%50%F:\EnglishWords\sound\passionate.mp3%0
+31%podcasting%%подкастинг%50%F:\EnglishWords\sound\podcasting.mp3%0
+32%practical%%практичний%50%F:\EnglishWords\sound\practical.mp3%0
+33%polite%%вічлевий%50%F:\EnglishWords\sound\polite.mp3%0
+34%pretend%%робити вигляд%50%F:\EnglishWords\sound\pretend.mp3%0
+35%rebellious%%непідхильний%50%F:\EnglishWords\sound\rebellious.mp3%0
+36%refuse%%відмовитися%50%F:\EnglishWords\sound\refuse.mp3%0
+37%rude%%грубий в повидінці%50%F:\EnglishWords\sound\rude.mp3%0
+38%scary%%пугливый%50%F:\EnglishWords\sound\scary.mp3%0
+39%sensitive%%чутєвий%50%F:\EnglishWords\sound\sensitive.mp3%0
+40%shy%%соромязливий%50%F:\EnglishWords\sound\shy.mp3%0
+41%skill%%вміння%50%F:\EnglishWords\sound\skill.mp3%0
+42%spare%%запасний%50%F:\EnglishWords\sound\spare.mp3%0
+43%tenderness%%ніжність%50%F:\EnglishWords\sound\tenderness.mp3%0
+44%claw%%дерти кігтями%50%F:\EnglishWords\sound\claw.mp3%0
+45%dearest%%дорогий%50%F:\EnglishWords\sound\dearest.mp3%0
+46%lonely%%самотній%50%F:\EnglishWords\sound\lonely.mp3%0
+47%striped%%смугастий%50%F:\EnglishWords\sound\striped.mp3%0
+48%tidy%%охайний%50%F:\EnglishWords\sound\tidy.mp3%0

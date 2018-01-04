@@ -1,0 +1,54 @@
+1%yet%%ще%80%F:\EnglishWords\sound\yet.mp3%0
+2%matter%%мати значення%80%F:\EnglishWords\sound\matter.mp3%0
+3%gradually%%поступово%80%F:\EnglishWords\sound\gradually.mp3%2
+4%clearer%%ясніше%80%F:\EnglishWords\sound\clearer.mp3%0
+5%enough%%достатньо%80%F:\EnglishWords\sound\enough.mp3%0
+6%guarantee%%гарантия%80%F:\EnglishWords\sound\guarantee.mp3%0
+7%explanations%%розяснення%80%F:\EnglishWords\sound\explanations.mp3%1
+8%enjoyable%%приємно%80%F:\EnglishWords\sound\enjoyable.mp3%2
+9%wherever%%скрізь%80%F:\EnglishWords\sound\wherever.mp3%2
+10%mostly%%в основному%80%F:\EnglishWords\sound\mostly.mp3%1
+11%partly%%частково%80%F:\EnglishWords\sound\partly.mp3%2
+12%notice%%помітити%80%F:\EnglishWords\sound\notice.mp3%2
+13%dictionaries%%словники%80%F:\EnglishWords\sound\dictionaries.mp3%2
+14%review%%огляд%80%F:\EnglishWords\sound\review.mp3%0
+15%plenty%%багато%80%F:\EnglishWords\sound\plenty.mp3%0
+16%responsibility%%відповідальність%80%F:\EnglishWords\sound\responsibility.mp3%0
+17%fluent%%вільно%80%F:\EnglishWords\sound\fluent.mp3%2
+18%immerse%%погруженя%80%F:\EnglishWords\sound\immerse.mp3%0
+19%several%%кілька%80%F:\EnglishWords\sound\several.mp3%0
+20%clap%%аплодувати%80%F:\EnglishWords\sound\clap.mp3%0
+21%worth%%вартість%80%F:\EnglishWords\sound\worth.mp3%0
+22%continue%%непреривний%80%F:\EnglishWords\sound\continue.mp3%0
+23%exclaim%%вигукнути%80%F:\EnglishWords\sound\exclaim.mp3%2
+24%few%%трохи,кілька%80%F:\EnglishWords\sound\few.mp3%0
+25%above%%наверху%80%F:\EnglishWords\sound\above.mp3%2
+26%chair%%крісло%80%F:\EnglishWords\sound\chair.mp3%0
+27%darling%%дорогий, кохана, любий%80%F:\EnglishWords\sound\darling.mp3%3
+28%honey%%мед%80%F:\EnglishWords\sound\honey.mp3%0
+29%therein%%там, туди%80%F:\EnglishWords\sound\therein.mp3%0
+30%issue%%проблема%80%F:\EnglishWords\sound\issue.mp3%0
+31%trick%%трюк%80%F:\EnglishWords\sound\trick.mp3%0
+32%mend%%поправляти%80%F:\EnglishWords\sound\mend.mp3%0
+33%fence%%забор%80%F:\EnglishWords\sound\fence.mp3%0
+34%lately%%нещодавно%80%F:\EnglishWords\sound\lately.mp3%2
+35%shady%%сумнівний%80%F:\EnglishWords\sound\shady.mp3%2
+36%forgiveness%%прощення%80%F:\EnglishWords\sound\forgiveness.mp3%0
+37%parties%%вечірки%80%F:\EnglishWords\sound\parties.mp3%0
+38%rattling%%шумний%80%F:\EnglishWords\sound\rattling.mp3%0
+39%chandelier%%люстра%80%F:\EnglishWords\sound\chandelier.mp3%0
+40%infinite%%безкінечно%80%F:\EnglishWords\sound\infinite.mp3%0
+41%universe%%всесвіт%80%F:\EnglishWords\sound\universe.mp3%0
+42%roaming%%роумінг%50%F:\EnglishWords\sound\roaming.mp3%0
+43%hinder%%перешкоджати%50%F:\EnglishWords\sound\hinder.mp3%0
+44%prisoner%%в'язень%50%F:\EnglishWords\sound\prisoner.mp3%0
+45%trust%%довіра%50%F:\EnglishWords\sound\trust.mp3%0
+46%clue%%розкрити секрет%50%F:\EnglishWords\sound\clue.mp3%0
+47%decay%%занепадати%50%F:\EnglishWords\sound\decay.mp3%0
+48%famously%%чудово%50%F:\EnglishWords\sound\famously.mp3%0
+49%retrieve%%відновлювати%50%F:\EnglishWords\sound\retrieve.mp3%0
+50%science%%наука%50%F:\EnglishWords\sound\science.mp3%0
+51%enhancement%%поліпшення%50%F:\EnglishWords\sound\enhancement.mp3%0
+52%bodies%%органи%50%F:\EnglishWords\sound\bodies.mp3%0
+53%tiniest%%найтонший%50%F:\EnglishWords\sound\tiniest.mp3%0
+54%consequences%%наслідки%50%F:\EnglishWords\sound\consequences.mp3%0
