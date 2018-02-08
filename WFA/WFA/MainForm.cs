@@ -71,13 +71,26 @@ namespace WFA
 
 
             selectedPath = ConfigurationManager.AppSettings["patch"];
+
+            
+
             MenuItem mitem = new MenuItem("Delete");
             mitem.Click += Mitem_Click;
             MenuItem mitem2 = new MenuItem("Replace Percent");
             mitem2.Click += Mitem2_Click;
+            MenuItem mitem3 = new MenuItem("Error Words");
+            mitem3.Click += Mitem3_Click;
             menu.MenuItems.Add(mitem);
             menu.MenuItems.Add(mitem2);
+            menu.MenuItems.Add(mitem3);
+
             ErrorWord.addevent(new ReloadErrorList(loadtoErrorList));
+        }
+
+        private void Mitem3_Click(object sender, EventArgs e)
+        {
+            ErrorListCurrentFile errorListCurrentFile = new ErrorListCurrentFile(translators.getTTranslator(FilelistBox.SelectedItem.ToString()));
+            errorListCurrentFile.ShowDialog();
         }
 
         private void Mitem2_Click(object sender, EventArgs e)

@@ -170,7 +170,7 @@
             this.findErrorWordsToolStripMenuItem,
             this.errorFix2ToolStripMenuItem});
             this.errorToolStripMenuItem.Name = "errorToolStripMenuItem";
-            this.errorToolStripMenuItem.Size = new System.Drawing.Size(44, 23);
+            this.errorToolStripMenuItem.Size = new System.Drawing.Size(94, 23);
             this.errorToolStripMenuItem.Text = "Error";
             // 
             // errorFix1ToolStripMenuItem

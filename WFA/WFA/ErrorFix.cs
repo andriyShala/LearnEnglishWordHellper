@@ -28,6 +28,7 @@ namespace WFA
         private void button1_Click(object sender, EventArgs e)
         {
             replace(word, textBoxUrl.Text);
+          this.DialogResult=DialogResult.OK;
             this.Close();
         }
 

@@ -1,66 +1,53 @@
-1%niece%%племіниця%80%F:\EnglishWords\sound\niece.mp3%1
-2%nephew%%племіник%100%F:\EnglishWords\sound\nephew.mp3%2
-3%belong%%належати%80%F:\EnglishWords\sound\belong.mp3%0
-4%earlier%%раніше%80%F:\EnglishWords\sound\earlier.mp3%3
-5%along%%разом%80%F:\EnglishWords\sound\along.mp3%2
-6%employee%%працівник%80%F:\EnglishWords\sound\employee.mp3%1
-7%pupil%%дитина%80%F:\EnglishWords\sound\pupil.mp3%1
-8%member%%член%80%F:\EnglishWords\sound\member.mp3%1
-9%fluency%%вільність%80%F:\EnglishWords\sound\fluency.mp3%0
-10%accuracy%%точність%80%F:\EnglishWords\sound\accuracy.mp3%2
-11%opportunity%%можливість,зиога%80%F:\EnglishWords\sound\opportunity.mp3%3
-12%involved%%участь%80%F:\EnglishWords\sound\involved.mp3%2
-13%intricate%%заплутаний%80%F:\EnglishWords\sound\intricate.mp3%3
-14%brief%%короткий%80%F:\EnglishWords\sound\brief.mp3%2
-15%couple%%пара%100%F:\EnglishWords\sound\couple.mp3%0
-16%crowd%%натовп%80%F:\EnglishWords\sound\crowd.mp3%1
-17%crop%%урожій%80%F:\EnglishWords\sound\crop.mp3%1
-18%flood%%повінь%80%F:\EnglishWords\sound\flood.mp3%1
-19%sink%%раковина%80%F:\EnglishWords\sound\sink.mp3%1
-20%spill%%розливати%80%F:\EnglishWords\sound\spill.mp3%0
-21%slide%%ковзати%80%F:\EnglishWords\sound\slide.mp3%1
-22%spread%%поширювати%100%F:\EnglishWords\sound\spread.mp3%1
-23%sting%%жалити%70%F:\EnglishWords\sound\sting.mp3%2
-24%tear%%розривати%80%F:\EnglishWords\sound\tear.mp3%0
-25%compete%%конкурувати%80%F:\EnglishWords\sound\compete.mp3%2
-26%wisely%%розумно%80%F:\EnglishWords\sound\wisely.mp3%1
-27%unlikely%%наврядчи%80%F:\EnglishWords\sound\unlikely.mp3%1
-28%likely%%швидше за все%100%F:\EnglishWords\sound\likely.mp3%3
-29%pale%%блідий%100%F:\EnglishWords\sound\pale.mp3%4
-30%predict%%передбачати%80%F:\EnglishWords\sound\predict.mp3%3
-31%habit%%звичка%100%F:\EnglishWords\sound\habit.mp3%1
-32%indecisive%%нерішучий%80%F:\EnglishWords\sound\indecisive.mp3%4
-33%gossip%%плітка патякати%80%F:\EnglishWords\sound\gossip.mp3%4
-34%apologize%%вибачитися%80%F:\EnglishWords\sound\apologize.mp3%2
-35%similar%%схожий%80%F:\EnglishWords\sound\similar.mp3%2
-36%earn%%заробляти%80%F:\EnglishWords\sound\earn.mp3%1
-37%possess%%володіти, мати%100%F:\EnglishWords\sound\possess.mp3%3
-38%awful%%жахливо%80%F:\EnglishWords\sound\awful.mp3%3
-39%adviser%%консультант%80%F:\EnglishWords\sound\adviser.mp3%0
-40%jealous%%ревнивый%50%F:\EnglishWords\sound\jealous.mp3%2
-41%worse%%гірше%80%F:\EnglishWords\sound\worse.mp3%0
-42%shoulder%%плече%80%F:\EnglishWords\sound\shoulder.mp3%0
-43%glad%%приємний, радий, радісний%80%F:\EnglishWords\sound\glad.mp3%3
-44%biscuit%%печиво%80%F:\EnglishWords\sound\biscuit.mp3%2
-45%tidy%%охайний%80%F:\EnglishWords\sound\tidy.mp3%0
-46%rely%%покладатися%50%F:\EnglishWords\sound\relies.mp3%3
-47%bargain%%домовлятися%80%F:\EnglishWords\sound\bargain.mp3%1
-48%survey%%обстеження%80%F:\EnglishWords\sound\survey.mp3%1
-49%misunderstanding%%непорозуміння%80%F:\EnglishWords\sound\misunderstanding.mp3%2
-50%sensible%%розумний%50%F:\EnglishWords\sound\sensible.mp3%4
-51%scientist%%вчений%80%F:\EnglishWords\sound\scientist.mp3%2
-52%shush%%примусити замовкнути%80%F:\EnglishWords\sound\shush.mp3%1
-53%ageing%%старіння%80%F:\EnglishWords\sound\ageing.mp3%1
-54%guess%% вгадати, допускати%80%F:\EnglishWords\sound\guess.mp3%2
-55%whose%%чий%100%F:\EnglishWords\sound\whose.mp3%0
-56%still%%досі%80%F:\EnglishWords\sound\still.mp3%1
-57%darling%%дорогий, кохана, любий%80%F:\EnglishWords\sound\darling.mp3%0
-58%funeral%%похорон%80%F:\EnglishWords\sound\funeral.mp3%2
-59%inconvenient%%незручний, непідхожий%80%F:\EnglishWords\sound\inconvenient.mp3%3
-60%frightening%%жахливий, лякаючий%80%F:\EnglishWords\sound\frightening.mp3%4
-61%teenager%%підліток%80%F:\EnglishWords\sound\teenager.mp3%2
-62%towards%%до, на, під%80%F:\EnglishWords\sound\towards.mp3%2
-63%excited%%збуджено, схвильовано%80%F:\EnglishWords\sound\excitedly.mp3%2
-64%anxious%%тривожно%80%F:\EnglishWords\sound\anxiously.mp3%3
-65%convenient%%зручний, підхожий%80%F:\EnglishWords\sound\convenient.mp3%0
-66%decisive%%рішучий%80%F:\EnglishWords\sound\decisive.mp3%2
+1%niece%%племіниця%80%F:\EnglishWords\sound\niece.mp3%3
+2%nephew%%племіник%80%F:\EnglishWords\sound\nephew.mp3%2
+3%belong%%належати%80%F:\EnglishWords\sound\belong.mp3%3
+4%along%%разом%50%F:\EnglishWords\sound\along.mp3%6
+5%pupil%%дитина%80%F:\EnglishWords\sound\pupil.mp3%1
+6%member%%член%80%F:\EnglishWords\sound\member.mp3%1
+7%accuracy%%точність%80%F:\EnglishWords\sound\accuracy.mp3%2
+8%opportunity%%можливість,зиога%50%F:\EnglishWords\sound\opportunity.mp3%6
+9%involved%%участь%50%F:\EnglishWords\sound\involved.mp3%6
+10%intricate%%заплутаний%50%F:\EnglishWords\sound\intricate.mp3%6
+11%brief%%короткий%50%F:\EnglishWords\sound\brief.mp3%5
+12%crowd%%натовп%80%F:\EnglishWords\sound\crowd.mp3%2
+13%flood%%повінь%50%F:\EnglishWords\sound\flood.mp3%3
+14%sink%%раковина%50%F:\EnglishWords\sound\sink.mp3%5
+15%spill%%розливати%50%F:\EnglishWords\sound\spill.mp3%4
+16%sting%%жалити%50%F:\EnglishWords\sound\sting.mp3%6
+17%tear%%розривати%50%F:\EnglishWords\sound\tear.mp3%4
+18%compete%%конкурувати%50%F:\EnglishWords\sound\compete.mp3%5
+19%wisely%%розумно%50%F:\EnglishWords\sound\wisely.mp3%4
+20%unlikely%%наврядчи%50%F:\EnglishWords\sound\unlikely.mp3%3
+21%likely%%швидше за все%50%F:\EnglishWords\sound\likely.mp3%5
+22%pale%%блідий%50%F:\EnglishWords\sound\pale.mp3%6
+23%predict%%передбачати%80%F:\EnglishWords\sound\predict.mp3%5
+24%habit%%звичка%80%F:\EnglishWords\sound\habit.mp3%4
+25%indecisive%%нерішучий%50%F:\EnglishWords\sound\indecisive.mp3%6
+26%gossip%%плітка патякати%50%F:\EnglishWords\sound\gossip.mp3%6
+27%apologize%%вибачитися%80%F:\EnglishWords\sound\apologize.mp3%4
+28%earn%%заробляти%80%F:\EnglishWords\sound\earn.mp3%2
+29%possess%%володіти, мати%50%F:\EnglishWords\sound\possess.mp3%5
+30%awful%%жахливо%80%F:\EnglishWords\sound\awful.mp3%4
+31%adviser%%консультант%50%F:\EnglishWords\sound\adviser.mp3%3
+32%jealous%%ревнивый%50%F:\EnglishWords\sound\jealous.mp3%6
+33%worse%%гірше%80%F:\EnglishWords\sound\worse.mp3%1
+34%shoulder%%плече%80%F:\EnglishWords\sound\shoulder.mp3%1
+35%glad%%приємний, радий, радісний%50%F:\EnglishWords\sound\glad.mp3%6
+36%biscuit%%печиво%80%F:\EnglishWords\sound\biscuit.mp3%3
+37%tidy%%охайний%80%F:\EnglishWords\sound\tidy.mp3%0
+38%rely%%покладатися%50%F:\EnglishWords\sound\relies.mp3%6
+39%bargain%%домовлятися%50%F:\EnglishWords\sound\bargain.mp3%5
+40%survey%%обстеження%50%F:\EnglishWords\sound\survey.mp3%4
+41%misunderstanding%%непорозуміння%50%F:\EnglishWords\sound\misunderstanding.mp3%3
+42%sensible%%розумний%50%F:\EnglishWords\sound\sensible.mp3%6
+43%scientist%%вчений%80%F:\EnglishWords\sound\scientist.mp3%2
+44%shush%%примусити замовкнути%80%F:\EnglishWords\sound\shush.mp3%1
+45%ageing%%старіння%50%F:\EnglishWords\sound\ageing.mp3%4
+46%guess%% вгадати, допускати%80%F:\EnglishWords\sound\guess.mp3%3
+47%funeral%%похорон%80%F:\EnglishWords\sound\funeral.mp3%4
+48%inconvenient%%незручний, непідхожий%50%F:\EnglishWords\sound\inconvenient.mp3%6
+49%frightening%%жахливий, лякаючий%50%F:\EnglishWords\sound\frightening.mp3%6
+50%towards%%до, на, під%80%F:\EnglishWords\sound\towards.mp3%3
+51%anxious%%тривожно%50%F:\EnglishWords\sound\anxiously.mp3%6
+52%convenient%%зручний, підхожий%50%F:\EnglishWords\sound\convenient.mp3%4
+53%decisive%%рішучий%80%Content\sound\decisive.mp3%5

@@ -13,12 +13,13 @@ namespace WFA
 {
     public partial class Form2 : Form
     {
+        private int SelectedItemIndex = 0;
         event Trainer.MyDel AddEvent;
         event Trainer.MyDel RemoveEvent;
-        WMPLib.WindowsMediaPlayer Player = new WMPLib.WindowsMediaPlayer();
-        List<TrainWord> words =null;
+        private WMPLib.WindowsMediaPlayer Player = new WMPLib.WindowsMediaPlayer();
+        private List<TrainWord> words =null;
         private bool percentColumClick = false;
-      public  delegate bool SortDelegate(ListViewItem it1, ListViewItem it2,bool reverse=false);
+        public  delegate bool SortDelegate(ListViewItem it1, ListViewItem it2,bool reverse=false);
         public Form2()
         {
             InitializeComponent();
@@ -129,7 +130,7 @@ namespace WFA
         {
             for (int i = 0; i < listView1.Items.Count-1; i++)
             {
-                if(listView1.Items[i].Text==t.Index.ToString())
+                if((int)listView1.Items[i].Tag==t.Index)
                 {
                     listView1.Invoke(new Action(()=>listView1.Items.RemoveAt(i)));
                     break;
@@ -188,7 +189,7 @@ namespace WFA
                 textBoxTranslate.Text = item.SubItems[3].Text;
                 textBoxColumn.Text = item.SubItems[4].Text;
                 textBox3.Text = item.SubItems[5].Text;
-                index = Convert.ToInt32(item.Tag);
+                SelectedItemIndex = Convert.ToInt32(item.Tag);
                 playsound(textBox3.Text);
 
             }
@@ -281,13 +282,12 @@ namespace WFA
                 }
             }
         }
-        int index = 0;
         private void textBoxWord_KeyDown(object sender, KeyEventArgs e)
         {
             if(e.KeyCode==Keys.Enter)
             {
                 TrainWord word = new TrainWord("");
-                word.Index = index;
+                word.Index = SelectedItemIndex;
                 word.PerCent = Convert.ToInt32(textBoxColumn.Text);
                 word.Transcription = textBoxTranscription.Text;
                 word.Translete = textBoxTranslate.Text;
@@ -368,7 +368,7 @@ namespace WFA
         {
             ListViewItem item = listView1.SelectedItems[0];
             TrainWord word = new TrainWord("");
-            word.Index = Convert.ToInt32(item.SubItems[0].Text);
+            word.Index = Convert.ToInt32(item.Tag);
             word.PerCent = Convert.ToInt32(textBoxColumn.Text);
             word.Transcription = textBoxTranscription.Text;
             word.Translete = textBoxTranslate.Text;

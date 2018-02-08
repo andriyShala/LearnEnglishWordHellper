@@ -1,5 +1,5 @@
 1%destination%[ ˌdes.tɪˈneɪ.ʃən ]%місце назначення%60%F:\EnglishWords\sound\destination.mp3%0
-2%landmarks%[  ]%памятки архітектури%80%F:\EnglishWords\sound\landmarks.mp3%0
+2%landmarks%[  ]%памятки архітектури%80%Content\sound\landmarks.mp3%0
 3%vacation%[  ]%відпустка%80%F:\EnglishWords\sound\vacation.mp3%0
 4%assure%[  ]%запевняти%80%F:\EnglishWords\sound\assure.mp3%0
 5%even%[  ]%навіть%80%F:\EnglishWords\sound\even.mp3%0

@@ -93,3 +93,14 @@
 0%%%%0%%0
 0%%%%0%%0
 0%%%%0%%0
+0%%%%0%%0
+0%%%%0%%0
+35%glad%%приємний, радий, радісний%50%F:\EnglishWords\sound\glad.mp3%6
+48%inconvenient%%незручний, непідхожий%50%F:\EnglishWords\sound\inconvenient.mp3%6
+26%gossip%%плітка патякати%50%F:\EnglishWords\sound\gossip.mp3%6
+25%indecisive%%нерішучий%50%F:\EnglishWords\sound\indecisive.mp3%6
+42%sensible%%розумний%50%F:\EnglishWords\sound\sensible.mp3%6
+49%frightening%%жахливий, лякаючий%50%F:\EnglishWords\sound\frightening.mp3%6
+22%pale%%блідий%50%F:\EnglishWords\sound\pale.mp3%6
+10%intricate%%заплутаний%50%F:\EnglishWords\sound\intricate.mp3%6
+51%anxious%%тривожно%50%F:\EnglishWords\sound\anxiously.mp3%6

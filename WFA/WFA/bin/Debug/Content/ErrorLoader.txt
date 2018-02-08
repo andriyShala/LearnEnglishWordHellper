@@ -52,174 +52,49 @@
 149%mown%F:\EnglishWords\IrregularVerbs2211.txt
 150%overtake%F:\EnglishWords\IrregularVerbs2211.txt
 150%overtook%F:\EnglishWords\IrregularVerbs2211.txt
-8%enjoyably%F:\EnglishWords\Words-MobileTranslator.txt
-18%immersed%F:\EnglishWords\Words-MobileTranslator.txt
-22%continued%F:\EnglishWords\Words-MobileTranslator.txt
-56%pretty%F:\EnglishWords\Words-14.10.2017.txt
-2%landmarks%F:\EnglishWords\Words-14.10.2017.txt
-16%hop%F:\EnglishWords\Words-14.10.2017.txt
-27%quirky%F:\EnglishWords\Words-14.10.2017.txt
-57%quite%F:\EnglishWords\Words-14.10.2017.txt
-38%waste%F:\EnglishWords\Words-14.10.2017.txt
-60%the same%F:\EnglishWords\Words-14.10.2017.txt
-39%precious%F:\EnglishWords\Words-14.10.2017.txt
-8%lets%F:\EnglishWords\Words-14.10.2017.txt
-49%numerous%F:\EnglishWords\Words-14.10.2017.txt
-53%dedicated%F:\EnglishWords\Words-14.10.2017.txt
-59%introducing%F:\EnglishWords\Words-14.10.2017.txt
-29%mall%F:\EnglishWords\Words-14.10.2017.txt
-15%at least%F:\EnglishWords\Words-14.10.2017.txt
-20%desire%F:\EnglishWords\Words-14.10.2017.txt
-12%might%F:\EnglishWords\Words-14.10.2017.txt
-6%pre plan%F:\EnglishWords\Words-14.10.2017.txt
-46%scatter%F:\EnglishWords\Words-14.10.2017.txt
-11%packed%F:\EnglishWords\Words-14.10.2017.txt
-5%even%F:\EnglishWords\Words-14.10.2017.txt
-30%forget%F:\EnglishWords\Words-14.10.2017.txt
-26%such as%F:\EnglishWords\Words-14.10.2017.txt
-14%dedicate%F:\EnglishWords\Words-14.10.2017.txt
-47%hereby%F:\EnglishWords\Words-14.10.2017.txt
-34%retail%F:\EnglishWords\Words-14.10.2017.txt
-21%tight%F:\EnglishWords\Words-14.10.2017.txt
-9%sightseeing%F:\EnglishWords\Words-14.10.2017.txt
-4%assure%F:\EnglishWords\Words-14.10.2017.txt
-41%sold%F:\EnglishWords\Words-14.10.2017.txt
-24%lobe%F:\EnglishWords\Words-14.10.2017.txt
-10%literally%F:\EnglishWords\Words-14.10.2017.txt
-43%unfortunately%F:\EnglishWords\Words-14.10.2017.txt
-61%anymore%F:\EnglishWords\Words-14.10.2017.txt
-17%must see%F:\EnglishWords\Words-14.10.2017.txt
-1%destination%F:\EnglishWords\Words-14.10.2017.txt
-19%one migth desire%F:\EnglishWords\Words-14.10.2017.txt
-28%boutigue%F:\EnglishWords\Words-14.10.2017.txt
-42%worst%F:\EnglishWords\Words-14.10.2017.txt
-63%prefer to%F:\EnglishWords\Words-23.09.2017.txt
-19%meaning%F:\EnglishWords\Words-23.09.2017.txt
-24%sensitive%F:\EnglishWords\Words-23.09.2017.txt
-55%usually%F:\EnglishWords\Words-23.09.2017.txt
-42%rich%F:\EnglishWords\Words-23.09.2017.txt
-66%come from%F:\EnglishWords\Words-23.09.2017.txt
-10%impolite%F:\EnglishWords\Words-23.09.2017.txt
-29%be have%F:\EnglishWords\Words-23.09.2017.txt
-86%boved%F:\EnglishWords\Words-23.09.2017.txt
-88%embarrassed%F:\EnglishWords\Words-23.09.2017.txt
-8%polite%F:\EnglishWords\Words-23.09.2017.txt
-37%grateful%F:\EnglishWords\Words-23.09.2017.txt
-43%tax%F:\EnglishWords\Words-23.09.2017.txt
-17%before%F:\EnglishWords\Words-23.09.2017.txt
-22%success%F:\EnglishWords\Words-23.09.2017.txt
-51%shoes%F:\EnglishWords\Words-23.09.2017.txt
-32%threw%F:\EnglishWords\Words-23.09.2017.txt
-20%responsible%F:\EnglishWords\Words-23.09.2017.txt
-64%town%F:\EnglishWords\Words-23.09.2017.txt
-93%afraid%F:\EnglishWords\Words-23.09.2017.txt
-25%loyal%F:\EnglishWords\Words-23.09.2017.txt
-41%bite%F:\EnglishWords\Words-23.09.2017.txt
-90%shine%F:\EnglishWords\Words-23.09.2017.txt
-71%over%F:\EnglishWords\Words-23.09.2017.txt
-31%interrupts%F:\EnglishWords\Words-23.09.2017.txt
-60%suit%F:\EnglishWords\Words-23.09.2017.txt
-82%better%F:\EnglishWords\Words-23.09.2017.txt
-9%impatient%F:\EnglishWords\Words-23.09.2017.txt
-89%pleased%F:\EnglishWords\Words-23.09.2017.txt
-65%look for%F:\EnglishWords\Words-23.09.2017.txt
-44%older%F:\EnglishWords\Words-23.09.2017.txt
-78%vest%F:\EnglishWords\Words-23.09.2017.txt
-38%safe%F:\EnglishWords\Words-23.09.2017.txt
-83%head%F:\EnglishWords\Words-23.09.2017.txt
-95%tend%F:\EnglishWords\Words-23.09.2017.txt
-21%ambitious%F:\EnglishWords\Words-23.09.2017.txt
-34%attractive%F:\EnglishWords\Words-23.09.2017.txt
-26%an opinion%F:\EnglishWords\Words-23.09.2017.txt
-48%some%F:\EnglishWords\Words-23.09.2017.txt
-68%taste%F:\EnglishWords\Words-23.09.2017.txt
-28%mature%F:\EnglishWords\Words-23.09.2017.txt
-52%sometimes%F:\EnglishWords\Words-23.09.2017.txt
-67%noise%F:\EnglishWords\Words-23.09.2017.txt
-59%shirt%F:\EnglishWords\Words-23.09.2017.txt
-13%almost%F:\EnglishWords\Words-23.09.2017.txt
-58%way%F:\EnglishWords\Words-23.09.2017.txt
-16%joke%F:\EnglishWords\Words-23.09.2017.txt
-7%sad%F:\EnglishWords\Words-23.09.2017.txt
-11%determined%F:\EnglishWords\Words-23.09.2017.txt
-39%nice%F:\EnglishWords\Words-23.09.2017.txt
-72%as well%F:\EnglishWords\Words-23.09.2017.txt
-79%jacket%F:\EnglishWords\Words-23.09.2017.txt
-77%hold%F:\EnglishWords\Words-23.09.2017.txt
-12%confident%F:\EnglishWords\Words-23.09.2017.txt
-87%confused%F:\EnglishWords\Words-23.09.2017.txt
-53%always%F:\EnglishWords\Words-23.09.2017.txt
-73%count%F:\EnglishWords\Words-23.09.2017.txt
-91%usefull%F:\EnglishWords\Words-23.09.2017.txt
-92%boring%F:\EnglishWords\Words-23.09.2017.txt
-18%after%F:\EnglishWords\Words-23.09.2017.txt
-2%talkative%F:\EnglishWords\Words-23.09.2017.txt
-47%poor%F:\EnglishWords\Words-23.09.2017.txt
-3%modest%F:\EnglishWords\Words-23.09.2017.txt
-57%recognize%F:\EnglishWords\Words-23.09.2017.txt
-30%lies%F:\EnglishWords\Words-23.09.2017.txt
-84%spare%F:\EnglishWords\Words-23.09.2017.txt
-15%absectives%F:\EnglishWords\Words-23.09.2017.txt
-62%exhausted%F:\EnglishWords\Words-23.09.2017.txt
-80%hurt%F:\EnglishWords\Words-23.09.2017.txt
-4%shy%F:\EnglishWords\Words-23.09.2017.txt
-14%arrogant%F:\EnglishWords\Words-23.09.2017.txt
-96%prepared%F:\EnglishWords\Words-23.09.2017.txt
-61%laugh%F:\EnglishWords\Words-23.09.2017.txt
-33%urgently%F:\EnglishWords\Words-23.09.2017.txt
-85%angry%F:\EnglishWords\Words-23.09.2017.txt
-40%sure%F:\EnglishWords\Words-23.09.2017.txt
-56%trainers%F:\EnglishWords\Words-23.09.2017.txt
-5%brave%F:\EnglishWords\Words-23.09.2017.txt
-6%weak%F:\EnglishWords\Words-23.09.2017.txt
-54%often%F:\EnglishWords\Words-23.09.2017.txt
-75%bride%F:\EnglishWords\Words-23.09.2017.txt
-74%amnount%F:\EnglishWords\Words-23.09.2017.txt
-49%correct%F:\EnglishWords\Words-23.09.2017.txt
-35%believable%F:\EnglishWords\Words-23.09.2017.txt
-36%fair%F:\EnglishWords\Words-23.09.2017.txt
-94%suppose%F:\EnglishWords\Words-23.09.2017.txt
-27%lucky%F:\EnglishWords\Words-23.09.2017.txt
-70%enjoy%F:\EnglishWords\Words-23.09.2017.txt
-69%tastes funny%F:\EnglishWords\Words-23.09.2017.txt
-46%to crash%F:\EnglishWords\Words-23.09.2017.txt
-45%get on%F:\EnglishWords\Words-23.09.2017.txt
-23%successful%F:\EnglishWords\Words-23.09.2017.txt
-50%wear%F:\EnglishWords\Words-23.09.2017.txt
-76%groonsman%F:\EnglishWords\Words-23.09.2017.txt
-1%fit%F:\EnglishWords\Words-23.09.2017.txt
-71%heavy%F:\EnglishWords\Words-26.09.2017.txt
-82%however%F:\EnglishWords\Words-26.09.2017.txt
-76%research%F:\EnglishWords\Words-26.09.2017.txt
-3%part%F:\EnglishWords\Words-26.09.2017.txt
-85%passionate%F:\EnglishWords\Words-26.09.2017.txt
-86%shoulders%F:\EnglishWords\Words-26.09.2017.txt
-84%definitiony%F:\EnglishWords\Words-26.09.2017.txt
-60%strait%F:\EnglishWords\Words-26.09.2017.txt
-47%gap%F:\EnglishWords\Words-26.09.2017.txt
-73%rebellious%F:\EnglishWords\Words-26.09.2017.txt
-97%clues%F:\EnglishWords\Words-26.09.2017.txt
-69%into%F:\EnglishWords\Words-26.09.2017.txt
-5%young%F:\EnglishWords\Words-26.09.2017.txt
-58%anyway%F:\EnglishWords\Words-26.09.2017.txt
-51%qualities%F:\EnglishWords\Words-26.09.2017.txt
-74%outgoing%F:\EnglishWords\Words-26.09.2017.txt
-52%certainly%F:\EnglishWords\Words-26.09.2017.txt
-43%imagine%F:\EnglishWords\Words-26.09.2017.txt
-11%achieve%F:\EnglishWords\Words-26.09.2017.txt
-26%personality%F:\EnglishWords\Words-26.09.2017.txt
-18%disabled%F:\EnglishWords\Words-26.09.2017.txt
-103%fairly%F:\EnglishWords\Words-26.09.2017.txt
-49%suprised%F:\EnglishWords\Words-26.09.2017.txt
-37%manage%F:\EnglishWords\Words-26.09.2017.txt
-92%naughtiness%F:\EnglishWords\Words-26.09.2017.txt
-21%charity%F:\EnglishWords\Words-26.09.2017.txt
-32%agryy%F:\EnglishWords\Words-26.09.2017.txt
-80%perhaps%F:\EnglishWords\Words-26.09.2017.txt
-20%raise%F:\EnglishWords\Words-26.09.2017.txt
-57%tidy%F:\EnglishWords\Words-26.09.2017.txt
-53%growing%F:\EnglishWords\Words-26.09.2017.txt
-2%climb%F:\EnglishWords\Words-26.09.2017.txt
-27%darking%F:\EnglishWords\Words-MobileTranslator.txt
-61%teenagers%F:\EnglishWords\Words-intermidiate1.txt
-66%decisive%F:\EnglishWords\Words-intermidiate1.txt
+4%assure%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+6%pre plan%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+8%lets%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+9%sightseeing%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+15%at least%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+17%must see%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+19%one migth desire%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+26%such as%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+28%boutigue%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+46%scatter%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+49%numerous%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+59%introducing%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+60%the same%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-14.10.2017.txt
+1%alive%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+2%bright%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+3%terrible%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+4%kind%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+5%imagination%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+6%lonely%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+7%loveless%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+8%obey%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+9%argue%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+10%mostly%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+11%colorless%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+12%narrow%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+13%wild%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+14%forbidden%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+15%grass%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+16%behind%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+17%shed%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+18%church%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+19%ghost%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+20%corner%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+21%tidy%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+22%untidy%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+23%dear%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+24%dearest%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+25%across%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+26%bar%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+27%large%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+28%fetter%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+29%village%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+30%relationship%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+31%allow%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+32%gift%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt
+33%shall%C:\Users\Андрій\Documents\GitHub\LearnEnglishWordHellper\WFA\WFA\bin\Debug\Content\Words-16.10.2017.txt

@@ -87,7 +87,7 @@
 87%bind%bound%bound%звязувати%50%F:\EnglishWords\sound\bind.mp3%F:\EnglishWords\sound\bound.mp3%F:\EnglishWords\sound\bound.mp3
 88%bleed%bled%bled%кровоточити%50%F:\EnglishWords\sound\bleed.mp3%F:\EnglishWords\sound\bled.mp3%F:\EnglishWords\sound\bled.mp3
 89%blow%blew%blown%дути%50%F:\EnglishWords\sound\blow.mp3%F:\EnglishWords\sound\blew.mp3%F:\EnglishWords\sound\blown.mp3
-90%breed%bred%bred%виховувати%50%F:\EnglishWords\sound\breed.mp3%%
+90%breed%bred%bred%виховувати%50%F:\EnglishWords\sound\breed.mp3%Content\sound\bred.mp3%Content\sound\bred.mp3
 91%cast%cast%cast%кидати%50%F:\EnglishWords\sound\cast.mp3%F:\EnglishWords\sound\cast.mp3%F:\EnglishWords\sound\cast.mp3
 92%dig%dug%dug%копати%50%F:\EnglishWords\sound\dig.mp3%F:\EnglishWords\sound\dug.mp3%F:\EnglishWords\sound\dug.mp3
 93%feed%fed%fed%годувати%50%F:\EnglishWords\sound\feed.mp3%F:\EnglishWords\sound\fed.mp3%F:\EnglishWords\sound\fed.mp3
@@ -136,7 +136,7 @@
 136%forsake%forsook%forsaken%кидати,відказуватися%50%F:\EnglishWords\sound\forsake.mp3%%F:\EnglishWords\sound\forsaken.mp3
 137%gild%gilt%gilt%позолотити%50%F:\EnglishWords\sound\gild.mp3%F:\EnglishWords\sound\gilt.mp3%F:\EnglishWords\sound\gilt.mp3
 138%grind%ground%ground%точити,молоти%50%F:\EnglishWords\sound\grind.mp3%F:\EnglishWords\sound\ground.mp3%F:\EnglishWords\sound\ground.mp3
-139%hew%hewed%hewed%рубати,тесати%50%%%
+139%hew%hewed%hewed%рубати,тесати%50%%Content\sound\hewed.mp3%Content\sound\hewed.mp3
 140%kneel%knelt%knelt%ставати на коліна%50%F:\EnglishWords\sound\kneel.mp3%F:\EnglishWords\sound\knelt.mp3%F:\EnglishWords\sound\knelt.mp3
 141%knit%knit%knit%вязати%50%F:\EnglishWords\sound\knit.mp3%F:\EnglishWords\sound\knit.mp3%F:\EnglishWords\sound\knit.mp3
 142%lean%leant%leant%нахилятися,опиратися%50%F:\EnglishWords\sound\lean.mp3%F:\EnglishWords\sound\leant.mp3%F:\EnglishWords\sound\leant.mp3

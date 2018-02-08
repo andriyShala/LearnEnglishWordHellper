@@ -74,7 +74,6 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1.cs" />
     <Compile Include="AddIrWord.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,7 +87,6 @@
       <DependentUpon>AddWord.cs</DependentUpon>
     </Compile>
     <Compile Include="BadLearWord.cs" />
-    <Compile Include="BadTrainWord.cs" />
     <Compile Include="CreateFile.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +104,12 @@
     </Compile>
     <Compile Include="ErrorFix.Designer.cs">
       <DependentUpon>ErrorFix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorListCurrentFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorListCurrentFile.Designer.cs">
+      <DependentUpon>ErrorListCurrentFile.cs</DependentUpon>
     </Compile>
     <Compile Include="ErrorWord.cs" />
     <Compile Include="FindNewWords.cs">
@@ -204,6 +208,9 @@
     <EmbeddedResource Include="ErrorFix.resx">
       <DependentUpon>ErrorFix.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ErrorListCurrentFile.resx">
+      <DependentUpon>ErrorListCurrentFile.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FindNewWords.resx">
       <DependentUpon>FindNewWords.cs</DependentUpon>
     </EmbeddedResource>
@@ -294,8 +301,6 @@
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Content\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
